@@ -1,0 +1,74 @@
+[
+    {
+        "Industry": "Agriculture, Forestry and Fishing",
+        "Total": 70155
+  },
+    {
+        "Industry": "Mining",
+        "Total": 1041
+  },
+    {
+        "Industry": "Manufacturing",
+        "Total": 46334
+  },
+    {
+        "Industry": "Electricity, Gas, Water and Waste Services",
+        "Total": 1854
+  },
+    {
+        "Industry": "Construction",
+        "Total": 225184
+  },
+    {
+        "Industry": "Wholesale Trade",
+        "Total": 12187
+  },
+    {
+        "Industry": "Retail Trade",
+        "Total": 65365
+  },
+    {
+        "Industry": "Accommodation and Food Services",
+        "Total": 22130
+  },
+    {
+        "Industry": "Transport, Postal and Warehousing",
+        "Total": 140224
+  },
+    {
+        "Industry": "Information Media and Telecommunications",
+        "Total": 20533
+  },
+    {
+        "Industry": "Financial and Insurance Services",
+        "Total": 26690
+  },
+    {
+        "Industry": "Rental, Hiring and Real Estate Services",
+        "Total": 25536
+  },
+    {
+        "Industry": "Professional, Scientific and Technical Services",
+        "Total": 188881
+  },
+    {
+        "Industry": "Administrative and Support Services",
+        "Total": 110131
+  },
+    {
+        "Industry": "Public Administration and Safety",
+        "Total": 4710
+  },
+    {
+        "Industry": "Education and Training",
+        "Total": 47669
+  },
+    {
+        "Industry": "Health Care and Social Assistance",
+        "Total": 132844
+  },
+    {
+        "Industry": "Arts and Recreation Services",
+        "Total": 81048
+  }
+]

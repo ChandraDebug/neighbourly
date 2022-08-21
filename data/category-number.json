@@ -1,0 +1,227 @@
+[
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Agriculture, Forestry, Fishing",
+    "Total_number_of_companies": 6107
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Manufacturing",
+    "Total_number_of_companies": 12728
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Construction",
+    "Total_number_of_companies": 44503
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Wholesale Trade",
+    "Total_number_of_companies": 10534
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Retail Trade",
+    "Total_number_of_companies": 14968
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Accommodation and Food Services",
+    "Total_number_of_companies": 9100
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Transport, Postal and Warehousing",
+    "Total_number_of_companies": 13459
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Information Media and Telecommunications",
+    "Total_number_of_companies": 4408
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Financial and Insurance Services",
+    "Total_number_of_companies": 64555
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Rental, Hiring and Real Estate Services",
+    "Total_number_of_companies": 52834
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Professional, Scientific, Technical Services",
+    "Total_number_of_companies": 53068
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Education and Training",
+    "Total_number_of_companies": 3933
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Health Care and Social Assistance",
+    "Total_number_of_companies": 15871
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Arts and Recreation Services",
+    "Total_number_of_companies": 3677
+  },
+  {
+    "Type": "Micro",
+    "Enterprise_industry": "Other",
+    "Total_number_of_companies": 32543
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Agriculture, Forestry, Fishing",
+    "Total_number_of_companies": 1161
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Manufacturing",
+    "Total_number_of_companies": 4643
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Construction",
+    "Total_number_of_companies": 8300
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Wholesale Trade",
+    "Total_number_of_companies": 5050
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Retail Trade",
+    "Total_number_of_companies": 5513
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Accommodation and Food Services",
+    "Total_number_of_companies": 1568
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Transport, Postal and Warehousing",
+    "Total_number_of_companies": 1683
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Information Media and Telecommunications",
+    "Total_number_of_companies": 489
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Financial and Insurance Services",
+    "Total_number_of_companies": 3295
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Rental, Hiring and Real Estate Services",
+    "Total_number_of_companies": 2371
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Professional, Scientific, Technical Services",
+    "Total_number_of_companies": 5705
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Education and Training",
+    "Total_number_of_companies": 406
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Health Care and Social Assistance",
+    "Total_number_of_companies": 1487
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Arts and Recreation Services",
+    "Total_number_of_companies": 286
+  },
+  {
+    "Type": "Small",
+    "Enterprise_industry": "Other",
+    "Total_number_of_companies": 4264
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Agriculture, Forestry, Fishing",
+    "Total_number_of_companies": 334
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Manufacturing",
+    "Total_number_of_companies": 1921
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Construction",
+    "Total_number_of_companies": 2370
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Wholesale Trade",
+    "Total_number_of_companies": 2946
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Retail Trade",
+    "Total_number_of_companies": 1767
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Accommodation and Food Services",
+    "Total_number_of_companies": 314
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Transport, Postal and Warehousing",
+    "Total_number_of_companies": 720
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Information Media and Telecommunications",
+    "Total_number_of_companies": 207
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Financial and Insurance Services",
+    "Total_number_of_companies": 1173
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Rental, Hiring and Real Estate Services",
+    "Total_number_of_companies": 418
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Professional, Scientific, Technical Services",
+    "Total_number_of_companies": 1268
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Education and Training",
+    "Total_number_of_companies": 72
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Health Care and Social Assistance",
+    "Total_number_of_companies": 204
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Arts and Recreation Services",
+    "Total_number_of_companies": 55
+  },
+  {
+    "Type": "Medium to Very large",
+    "Enterprise_industry": "Other",
+    "Total_number_of_companies": 1359
+  }
+]

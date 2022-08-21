@@ -1,0 +1,662 @@
+[
+    {
+        "Type": "Pub",
+        "Council": "ALBURY CITY COUNCIL",
+        "Total": 151
+  },
+    {
+        "Type": "Pub",
+        "Council": "ARMIDALE REGIONAL COUNCIL",
+        "Total": 82
+  },
+    {
+        "Type": "Pub",
+        "Council": "BALLINA SHIRE COUNCIL",
+        "Total": 107
+  },
+    {
+        "Type": "Pub",
+        "Council": "BALRANALD SHIRE COUNCIL",
+        "Total": 13
+  },
+    {
+        "Type": "Pub",
+        "Council": "BATHURST REGIONAL COUNCIL",
+        "Total": 110
+  },
+    {
+        "Type": "Pub",
+        "Council": "BAYSIDE COUNCIL",
+        "Total": 248
+  },
+    {
+        "Type": "Pub",
+        "Council": "BEGA VALLEY SHIRE COUNCIL",
+        "Total": 144
+  },
+    {
+        "Type": "Pub",
+        "Council": "BELLINGEN SHIRE COUNCIL",
+        "Total": 38
+  },
+    {
+        "Type": "Pub",
+        "Council": "BERRIGAN SHIRE COUNCIL",
+        "Total": 41
+  },
+    {
+        "Type": "Pub",
+        "Council": "BLACKTOWN CITY COUNCIL",
+        "Total": 201
+  },
+    {
+        "Type": "Pub",
+        "Council": "BLAND SHIRE COUNCIL",
+        "Total": 34
+  },
+    {
+        "Type": "Pub",
+        "Council": "BLAYNEY SHIRE COUNCIL",
+        "Total": 34
+  },
+    {
+        "Type": "Pub",
+        "Council": "BLUE MOUNTAINS CITY COUNCIL",
+        "Total": 166
+  },
+    {
+        "Type": "Pub",
+        "Council": "BOGAN SHIRE COUNCIL",
+        "Total": 18
+  },
+    {
+        "Type": "Pub",
+        "Council": "BOURKE SHIRE COUNCIL",
+        "Total": 24
+  },
+    {
+        "Type": "Pub",
+        "Council": "BREWARRINA SHIRE COUNCIL",
+        "Total": 7
+  },
+    {
+        "Type": "Pub",
+        "Council": "BROKEN HILL CITY COUNCIL",
+        "Total": 70
+  },
+    {
+        "Type": "Pub",
+        "Council": "BURWOOD COUNCIL",
+        "Total": 91
+  },
+    {
+        "Type": "Pub",
+        "Council": "BYRON SHIRE COUNCIL",
+        "Total": 168
+  },
+    {
+        "Type": "Pub",
+        "Council": "CABONNE SHIRE COUNCIL",
+        "Total": 95
+  },
+    {
+        "Type": "Pub",
+        "Council": "CAMDEN COUNCIL",
+        "Total": 132
+  },
+    {
+        "Type": "Pub",
+        "Council": "CAMPBELLTOWN CITY COUNCIL",
+        "Total": 122
+  },
+    {
+        "Type": "Pub",
+        "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+        "Total": 309
+  },
+    {
+        "Type": "Pub",
+        "Council": "CARRATHOOL SHIRE COUNCIL",
+        "Total": 15
+  },
+    {
+        "Type": "Pub",
+        "Council": "CENTRAL COAST COUNCIL",
+        "Total": 539
+  },
+    {
+        "Type": "Pub",
+        "Council": "CENTRAL DARLING SHIRE COUNCIL",
+        "Total": 18
+  },
+    {
+        "Type": "Pub",
+        "Council": "CESSNOCK CITY COUNCIL",
+        "Total": 407
+  },
+    {
+        "Type": "Pub",
+        "Council": "CITY OF CANADA BAY COUNCIL",
+        "Total": 213
+  },
+    {
+        "Type": "Pub",
+        "Council": "CITY OF LITHGOW COUNCIL",
+        "Total": 57
+  },
+    {
+        "Type": "Pub",
+        "Council": "CITY OF PARRAMATTA COUNCIL",
+        "Total": 342
+  },
+    {
+        "Type": "Pub",
+        "Council": "CLARENCE VALLEY COUNCIL",
+        "Total": 140
+  },
+    {
+        "Type": "Pub",
+        "Council": "COBAR SHIRE COUNCIL",
+        "Total": 18
+  },
+    {
+        "Type": "Pub",
+        "Council": "COFFS HARBOUR CITY COUNCIL",
+        "Total": 173
+  },
+    {
+        "Type": "Pub",
+        "Council": "COOLAMON SHIRE COUNCIL",
+        "Total": 16
+  },
+    {
+        "Type": "Pub",
+        "Council": "COONAMBLE SHIRE COUNCIL",
+        "Total": 24
+  },
+    {
+        "Type": "Pub",
+        "Council": "COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL",
+        "Total": 48
+  },
+    {
+        "Type": "Pub",
+        "Council": "COUNCIL OF THE CITY OF SYDNEY",
+        "Total": 2421
+  },
+    {
+        "Type": "Pub",
+        "Council": "COWRA SHIRE COUNCIL",
+        "Total": 48
+  },
+    {
+        "Type": "Pub",
+        "Council": "CUMBERLAND COUNCIL",
+        "Total": 173
+  },
+    {
+        "Type": "Pub",
+        "Council": "CUMBERLAND COUNCIL",
+        "Total": 17
+  },
+    {
+        "Type": "Pub",
+        "Council": "DUBBO REGIONAL COUNCIL",
+        "Total": 115
+  },
+    {
+        "Type": "Pub",
+        "Council": "DUNGOG SHIRE COUNCIL",
+        "Total": 33
+  },
+    {
+        "Type": "Pub",
+        "Council": "EDWARD RIVER COUNCIL",
+        "Total": 38
+  },
+    {
+        "Type": "Pub",
+        "Council": "EUROBODALLA SHIRE COUNCIL",
+        "Total": 111
+  },
+    {
+        "Type": "Pub",
+        "Council": "FAIRFIELD CITY COUNCIL",
+        "Total": 231
+  },
+    {
+        "Type": "Pub",
+        "Council": "FEDERATION COUNCIL",
+        "Total": 62
+  },
+    {
+        "Type": "Pub",
+        "Council": "FORBES SHIRE COUNCIL",
+        "Total": 25
+  },
+    {
+        "Type": "Pub",
+        "Council": "GEORGES RIVER COUNCIL",
+        "Total": 185
+  },
+    {
+        "Type": "Pub",
+        "Council": "GILGANDRA SHIRE COUNCIL",
+        "Total": 18
+  },
+    {
+        "Type": "Pub",
+        "Council": "GLEN INNES SEVERN COUNCIL",
+        "Total": 28
+  },
+    {
+        "Type": "Pub",
+        "Council": "GOULBURN MULWAREE COUNCIL",
+        "Total": 68
+  },
+    {
+        "Type": "Pub",
+        "Council": "GREATER HUME SHIRE COUNCIL",
+        "Total": 42
+  },
+    {
+        "Type": "Pub",
+        "Council": "GRIFFITH CITY COUNCIL",
+        "Total": 155
+  },
+    {
+        "Type": "Pub",
+        "Council": "GUNNEDAH SHIRE COUNCIL",
+        "Total": 39
+  },
+    {
+        "Type": "Pub",
+        "Council": "GWYDIR SHIRE COUNCIL",
+        "Total": 21
+  },
+    {
+        "Type": "Pub",
+        "Council": "HAWKESBURY CITY COUNCIL",
+        "Total": 138
+  },
+    {
+        "Type": "Pub",
+        "Council": "HAY SHIRE COUNCIL",
+        "Total": 19
+  },
+    {
+        "Type": "Pub",
+        "Council": "HILLTOPS COUNCIL",
+        "Total": 85
+  },
+    {
+        "Type": "Pub",
+        "Council": "INNER WEST COUNCIL",
+        "Total": 615
+  },
+    {
+        "Type": "Pub",
+        "Council": "INVERELL SHIRE COUNCIL",
+        "Total": 49
+  },
+    {
+        "Type": "Pub",
+        "Council": "JUNEE SHIRE COUNCIL",
+        "Total": 19
+  },
+    {
+        "Type": "Pub",
+        "Council": "KEMPSEY SHIRE COUNCIL",
+        "Total": 72
+  },
+    {
+        "Type": "Pub",
+        "Council": "KU-RING-GAI COUNCIL",
+        "Total": 172
+  },
+    {
+        "Type": "Pub",
+        "Council": "KYOGLE COUNCIL",
+        "Total": 22
+  },
+    {
+        "Type": "Pub",
+        "Council": "LACHLAN SHIRE COUNCIL",
+        "Total": 27
+  },
+    {
+        "Type": "Pub",
+        "Council": "LAKE MACQUARIE CITY COUNCIL",
+        "Total": 253
+  },
+    {
+        "Type": "Pub",
+        "Council": "LANE COVE MUNICIPAL COUNCIL",
+        "Total": 76
+  },
+    {
+        "Type": "Pub",
+        "Council": "LEETON SHIRE COUNCIL",
+        "Total": 39
+  },
+    {
+        "Type": "Pub",
+        "Council": "LISMORE CITY COUNCIL",
+        "Total": 108
+  },
+    {
+        "Type": "Pub",
+        "Council": "LIVERPOOL CITY COUNCIL",
+        "Total": 167
+  },
+    {
+        "Type": "Pub",
+        "Council": "LIVERPOOL PLAINS SHIRE COUNCIL",
+        "Total": 30
+  },
+    {
+        "Type": "Pub",
+        "Council": "LOCKHART SHIRE COUNCIL",
+        "Total": 15
+  },
+    {
+        "Type": "Pub",
+        "Council": "MAITLAND CITY COUNCIL",
+        "Total": 129
+  },
+    {
+        "Type": "Pub",
+        "Council": "MID-COAST COUNCIL",
+        "Total": 234
+  },
+    {
+        "Type": "Pub",
+        "Council": "MID-WESTERN REGIONAL COUNCIL",
+        "Total": 169
+  },
+    {
+        "Type": "Pub",
+        "Council": "MOREE PLAINS SHIRE COUNCIL",
+        "Total": 44
+  },
+    {
+        "Type": "Pub",
+        "Council": "MOSMAN MUNICIPAL COUNCIL",
+        "Total": 79
+  },
+    {
+        "Type": "Pub",
+        "Council": "MURRAY RIVER COUNCIL",
+        "Total": 76
+  },
+    {
+        "Type": "Pub",
+        "Council": "MURRUMBIDGEE COUNCIL",
+        "Total": 16
+  },
+    {
+        "Type": "Pub",
+        "Council": "MUSWELLBROOK SHIRE COUNCIL",
+        "Total": 50
+  },
+    {
+        "Type": "Pub",
+        "Council": "NAMBUCCA SHIRE COUNCIL",
+        "Total": 45
+  },
+    {
+        "Type": "Pub",
+        "Council": "NARRABRI SHIRE COUNCIL",
+        "Total": 45
+  },
+    {
+        "Type": "Pub",
+        "Council": "NARRANDERA SHIRE COUNCIL",
+        "Total": 21
+  },
+    {
+        "Type": "Pub",
+        "Council": "NARROMINE SHIRE COUNCIL",
+        "Total": 27
+  },
+    {
+        "Type": "Pub",
+        "Council": "NEWCASTLE CITY COUNCIL",
+        "Total": 477
+  },
+    {
+        "Type": "Pub",
+        "Council": "NORTH SYDNEY COUNCIL",
+        "Total": 378
+  },
+    {
+        "Type": "Pub",
+        "Council": "NORTHERN BEACHES COUNCIL",
+        "Total": 625
+  },
+    {
+        "Type": "Pub",
+        "Council": "NULL",
+        "Total": 159
+  },
+    {
+        "Type": "Pub",
+        "Council": "OBERON COUNCIL",
+        "Total": 18
+  },
+    {
+        "Type": "Pub",
+        "Council": "ORANGE CITY COUNCIL",
+        "Total": 133
+  },
+    {
+        "Type": "Pub",
+        "Council": "PARKES SHIRE COUNCIL",
+        "Total": 54
+  },
+    {
+        "Type": "Pub",
+        "Council": "PENRITH CITY COUNCIL",
+        "Total": 218
+  },
+    {
+        "Type": "Pub",
+        "Council": "PORT MACQUARIE-HASTINGS COUNCIL",
+        "Total": 189
+  },
+    {
+        "Type": "Pub",
+        "Council": "PORT STEPHENS COUNCIL",
+        "Total": 156
+  },
+    {
+        "Type": "Pub",
+        "Council": "QUEANBEYAN-PALERANG REGIONAL COUNCIL",
+        "Total": 103
+  },
+    {
+        "Type": "Pub",
+        "Council": "RANDWICK CITY COUNCIL",
+        "Total": 270
+  },
+    {
+        "Type": "Pub",
+        "Council": "RICHMOND VALLEY COUNCIL",
+        "Total": 39
+  },
+    {
+        "Type": "Pub",
+        "Council": "ROCKDALE CITY COUNCIL",
+        "Total": 2
+  },
+    {
+        "Type": "Pub",
+        "Council": "RYDE CITY COUNCIL",
+        "Total": 244
+  },
+    {
+        "Type": "Pub",
+        "Council": "SHELLHARBOUR CITY COUNCIL",
+        "Total": 84
+  },
+    {
+        "Type": "Pub",
+        "Council": "SHOALHAVEN CITY COUNCIL",
+        "Total": 256
+  },
+    {
+        "Type": "Pub",
+        "Council": "SINGLETON COUNCIL",
+        "Total": 125
+  },
+    {
+        "Type": "Pub",
+        "Council": "SNOWY MONARO REGIONAL COUNCIL",
+        "Total": 178
+  },
+    {
+        "Type": "Pub",
+        "Council": "SNOWY VALLEYS COUNCIL",
+        "Total": 65
+  },
+    {
+        "Type": "Pub",
+        "Council": "STRATHFIELD MUNICIPAL COUNCIL",
+        "Total": 73
+  },
+    {
+        "Type": "Pub",
+        "Council": "SUTHERLAND SHIRE COUNCIL",
+        "Total": 381
+  },
+    {
+        "Type": "Pub",
+        "Council": "TAMWORTH REGIONAL COUNCIL",
+        "Total": 153
+  },
+    {
+        "Type": "Pub",
+        "Council": "TEMORA SHIRE COUNCIL",
+        "Total": 25
+  },
+    {
+        "Type": "Pub",
+        "Council": "TENTERFIELD SHIRE COUNCIL",
+        "Total": 32
+  },
+    {
+        "Type": "Pub",
+        "Council": "THE COUNCIL OF THE MUNICIPALITY OF HUNTERS HILL",
+        "Total": 31
+  },
+    {
+        "Type": "Pub",
+        "Council": "THE COUNCIL OF THE MUNICIPALITY OF KIAMA",
+        "Total": 74
+  },
+    {
+        "Type": "Pub",
+        "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+        "Total": 171
+  },
+    {
+        "Type": "Pub",
+        "Council": "THE HILLS SHIRE COUNCIL",
+        "Total": 233
+  },
+    {
+        "Type": "Pub",
+        "Council": "TWEED SHIRE COUNCIL",
+        "Total": 215
+  },
+    {
+        "Type": "Pub",
+        "Council": "UNINCORPORATED FAR WEST",
+        "Total": 11
+  },
+    {
+        "Type": "Pub",
+        "Council": "UPPER HUNTER SHIRE COUNCIL",
+        "Total": 55
+  },
+    {
+        "Type": "Pub",
+        "Council": "UPPER LACHLAN SHIRE COUNCIL",
+        "Total": 37
+  },
+    {
+        "Type": "Pub",
+        "Council": "URALLA SHIRE COUNCIL",
+        "Total": 22
+  },
+    {
+        "Type": "Pub",
+        "Council": "WAGGA WAGGA CITY COUNCIL",
+        "Total": 149
+  },
+    {
+        "Type": "Pub",
+        "Council": "WALCHA COUNCIL",
+        "Total": 15
+  },
+    {
+        "Type": "Pub",
+        "Council": "WALGETT SHIRE COUNCIL",
+        "Total": 25
+  },
+    {
+        "Type": "Pub",
+        "Council": "WARREN SHIRE COUNCIL",
+        "Total": 14
+  },
+    {
+        "Type": "Pub",
+        "Council": "WARRUMBUNGLE SHIRE COUNCIL",
+        "Total": 48
+  },
+    {
+        "Type": "Pub",
+        "Council": "WAVERLEY COUNCIL",
+        "Total": 256
+  },
+    {
+        "Type": "Pub",
+        "Council": "WEDDIN SHIRE COUNCIL",
+        "Total": 17
+  },
+    {
+        "Type": "Pub",
+        "Council": "WENTWORTH SHIRE COUNCIL",
+        "Total": 39
+  },
+    {
+        "Type": "Pub",
+        "Council": "WILLOUGHBY CITY COUNCIL",
+        "Total": 240
+  },
+    {
+        "Type": "Pub",
+        "Council": "WINGECARRIBEE SHIRE COUNCIL",
+        "Total": 195
+  },
+    {
+        "Type": "Pub",
+        "Council": "WOLLONDILLY SHIRE COUNCIL",
+        "Total": 61
+  },
+    {
+        "Type": "Pub",
+        "Council": "WOLLONGONG CITY COUNCIL",
+        "Total": 427
+  },
+    {
+        "Type": "Pub",
+        "Council": "WOOLLAHRA MUNICIPAL COUNCIL",
+        "Total": 206
+  },
+    {
+        "Type": "Pub",
+        "Council": "YASS VALLEY COUNCIL",
+        "Total": 107
+  }
+]

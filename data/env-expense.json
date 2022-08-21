@@ -1,0 +1,746 @@
+[
+ {
+   "Council": "ALBURY CITY COUNCIL",
+   "Year_2017": 258.45,
+   "Year_2018": 258.72,
+   "Year_2019": 273.38
+ },
+ {
+   "Council": "ARMIDALE REGIONAL COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 300.45,
+   "Year_2019": 246.95
+ },
+ {
+   "Council": "BALLINA SHIRE COUNCIL",
+   "Year_2017": 254.45,
+   "Year_2018": 244.17,
+   "Year_2019": 252.67
+ },
+ {
+   "Council": "BALRANALD SHIRE COUNCIL",
+   "Year_2017": 220.78,
+   "Year_2018": 175.99,
+   "Year_2019": 138.03
+ },
+ {
+   "Council": "BATHURST REGIONAL COUNCIL",
+   "Year_2017": 235.77,
+   "Year_2018": 230.02,
+   "Year_2019": 223.88
+ },
+ {
+   "Council": "BAYSIDE COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": " ",
+   "Year_2019": 180.05
+ },
+ {
+   "Council": "BEGA VALLEY SHIRE COUNCIL",
+   "Year_2017": 337.95,
+   "Year_2018": 311.62,
+   "Year_2019": 470.36
+ },
+ {
+   "Council": "BELLINGEN SHIRE COUNCIL",
+   "Year_2017": 359.65,
+   "Year_2018": 357.79,
+   "Year_2019": 358.79
+ },
+ {
+   "Council": "BERRIGAN SHIRE COUNCIL",
+   "Year_2017": 241.13,
+   "Year_2018": 244.58,
+   "Year_2019": 263.58
+ },
+ {
+   "Council": "BLACKTOWN CITY COUNCIL",
+   "Year_2017": 185.9,
+   "Year_2018": 186.13,
+   "Year_2019": 207.32
+ },
+ {
+   "Council": "BLAND SHIRE COUNCIL",
+   "Year_2017": 307.74,
+   "Year_2018": 343.53,
+   "Year_2019": 381.45
+ },
+ {
+   "Council": "BLAYNEY SHIRE COUNCIL",
+   "Year_2017": 218.66,
+   "Year_2018": 204.66,
+   "Year_2019": 199.13
+ },
+ {
+   "Council": "BLUE MOUNTAINS CITY COUNCIL",
+   "Year_2017": 420.72,
+   "Year_2018": 376.22,
+   "Year_2019": 367.17
+ },
+ {
+   "Council": "BOGAN SHIRE COUNCIL",
+   "Year_2017": 443.64,
+   "Year_2018": 500.38,
+   "Year_2019": 533
+ },
+ {
+   "Council": "BROKEN HILL CITY COUNCIL",
+   "Year_2017": 164.31,
+   "Year_2018": 145.97,
+   "Year_2019": 121.57
+ },
+ {
+   "Council": "BURWOOD COUNCIL",
+   "Year_2017": 189.14,
+   "Year_2018": 204.2,
+   "Year_2019": 206.04
+ },
+ {
+   "Council": "BYRON SHIRE COUNCIL",
+   "Year_2017": 261.33,
+   "Year_2018": 283.97,
+   "Year_2019": 368.51
+ },
+ {
+   "Council": "CABONNE SHIRE COUNCIL",
+   "Year_2017": 213.8,
+   "Year_2018": 200.15,
+   "Year_2019": 200.73
+ },
+ {
+   "Council": "CAMDEN COUNCIL",
+   "Year_2017": 149.8,
+   "Year_2018": 154.41,
+   "Year_2019": 174.87
+ },
+ {
+   "Council": "CAMPBELLTOWN CITY COUNCIL",
+   "Year_2017": 157.05,
+   "Year_2018": 158.13,
+   "Year_2019": 163.06
+ },
+ {
+   "Council": "CITY OF CANADA BAY COUNCIL",
+   "Year_2017": 202.76,
+   "Year_2018": 202.37,
+   "Year_2019": 200.54
+ },
+ {
+   "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 192.4,
+   "Year_2019": 186.71
+ },
+ {
+   "Council": "CARRATHOOL SHIRE COUNCIL",
+   "Year_2017": 244.74,
+   "Year_2018": 195.28,
+   "Year_2019": 197.72
+ },
+ {
+   "Council": "CENTRAL COAST COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 378.76,
+   "Year_2019": 339.72
+ },
+ {
+   "Council": "CESSNOCK CITY COUNCIL",
+   "Year_2017": 287.06,
+   "Year_2018": 365.15,
+   "Year_2019": 296.22
+ },
+ {
+   "Council": "CLARENCE VALLEY COUNCIL",
+   "Year_2017": 276.07,
+   "Year_2018": 288.91,
+   "Year_2019": 301.93
+ },
+ {
+   "Council": "COFFS HARBOUR CITY COUNCIL",
+   "Year_2017": 260.75,
+   "Year_2018": 331.83,
+   "Year_2019": 338.87
+ },
+ {
+   "Council": "COOLAMON SHIRE COUNCIL",
+   "Year_2017": 171.02,
+   "Year_2018": 187.24,
+   "Year_2019": 260.53
+ },
+ {
+   "Council": "COONAMBLE SHIRE COUNCIL",
+   "Year_2017": 188.88,
+   "Year_2018": 325.97,
+   "Year_2019": 228.7
+ },
+ {
+   "Council": "COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 150.48,
+   "Year_2019": 249.29
+ },
+ {
+   "Council": "COWRA SHIRE COUNCIL",
+   "Year_2017": 332.52,
+   "Year_2018": 245.08,
+   "Year_2019": 291.69
+ },
+ {
+   "Council": "CUMBERLAND COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 186.15,
+   "Year_2019": 205.88
+ },
+ {
+   "Council": "DUBBO REGIONAL COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 211.61,
+   "Year_2019": 293.82
+ },
+ {
+   "Council": "DUNGOG SHIRE COUNCIL",
+   "Year_2017": 226.9,
+   "Year_2018": 225.51,
+   "Year_2019": 134.82
+ },
+ {
+   "Council": "EDWARD RIVER COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 126.27,
+   "Year_2019": 232.13
+ },
+ {
+   "Council": "EUROBODALLA SHIRE COUNCIL",
+   "Year_2017": 378.71,
+   "Year_2018": 348.19,
+   "Year_2019": 388.01
+ },
+ {
+   "Council": "FAIRFIELD CITY COUNCIL",
+   "Year_2017": 177.09,
+   "Year_2018": 154.26,
+   "Year_2019": 161.89
+ },
+ {
+   "Council": "FEDERATION COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 270.73,
+   "Year_2019": 312.31
+ },
+ {
+   "Council": "FORBES SHIRE COUNCIL",
+   "Year_2017": 193.72,
+   "Year_2018": 222.44,
+   "Year_2019": 257.01
+ },
+ {
+   "Council": "GEORGES RIVER COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 164.49,
+   "Year_2019": 165.56
+ },
+ {
+   "Council": "GILGANDRA SHIRE COUNCIL",
+   "Year_2017": 162.45,
+   "Year_2018": 173.77,
+   "Year_2019": 225.04
+ },
+ {
+   "Council": "GLEN INNES SEVERN COUNCIL",
+   "Year_2017": 145.16,
+   "Year_2018": 157.75,
+   "Year_2019": 151.89
+ },
+ {
+   "Council": "GOULBURN MULWAREE COUNCIL",
+   "Year_2017": 212.57,
+   "Year_2018": 190.47,
+   "Year_2019": 187.05
+ },
+ {
+   "Council": "GREATER HUME SHIRE COUNCIL",
+   "Year_2017": 159.86,
+   "Year_2018": 176.29,
+   "Year_2019": 159.37
+ },
+ {
+   "Council": "GRIFFITH CITY COUNCIL",
+   "Year_2017": 201.57,
+   "Year_2018": 193.9,
+   "Year_2019": 198.05
+ },
+ {
+   "Council": "GUNNEDAH SHIRE COUNCIL",
+   "Year_2017": 325.07,
+   "Year_2018": 332.14,
+   "Year_2019": 331.73
+ },
+ {
+   "Council": "GWYDIR SHIRE COUNCIL",
+   "Year_2017": -178.37,
+   "Year_2018": 377.87,
+   "Year_2019": 407.93
+ },
+ {
+   "Council": "HAWKESBURY CITY COUNCIL",
+   "Year_2017": 264.32,
+   "Year_2018": 262.3,
+   "Year_2019": 266.51
+ },
+ {
+   "Council": "HAY SHIRE COUNCIL",
+   "Year_2017": 267.9,
+   "Year_2018": 248.07,
+   "Year_2019": 251.09
+ },
+ {
+   "Council": "THE HILLS SHIRE COUNCIL",
+   "Year_2017": 201.89,
+   "Year_2018": 183.07,
+   "Year_2019": 181.44
+ },
+ {
+   "Council": "HILLTOPS COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": " ",
+   "Year_2019": 362.42
+ },
+ {
+   "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+   "Year_2017": 247.48,
+   "Year_2018": 240.19,
+   "Year_2019": 249.17
+ },
+ {
+   "Council": "THE COUNCIL OF THE MUNICIPALITY OF HUNTERS HILL",
+   "Year_2017": 199.96,
+   "Year_2018": 203.23,
+   "Year_2019": 214.64
+ },
+ {
+   "Council": "INNER WEST COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 164.75,
+   "Year_2019": 187.88
+ },
+ {
+   "Council": "INVERELL SHIRE COUNCIL",
+   "Year_2017": 289.61,
+   "Year_2018": 221.77,
+   "Year_2019": 249.82
+ },
+ {
+   "Council": "JUNEE SHIRE COUNCIL",
+   "Year_2017": 162.33,
+   "Year_2018": 174.17,
+   "Year_2019": 165.59
+ },
+ {
+   "Council": "KEMPSEY SHIRE COUNCIL",
+   "Year_2017": 367.79,
+   "Year_2018": 307.88,
+   "Year_2019": 351.32
+ },
+ {
+   "Council": "THE COUNCIL OF THE MUNICIPALITY OF KIAMA",
+   "Year_2017": 263.29,
+   "Year_2018": 257.06,
+   "Year_2019": 353.65
+ },
+ {
+   "Council": "KU-RING-GAI COUNCIL",
+   "Year_2017": 205.08,
+   "Year_2018": 223.14,
+   "Year_2019": 225.07
+ },
+ {
+   "Council": "KYOGLE COUNCIL",
+   "Year_2017": 188.27,
+   "Year_2018": 220.4,
+   "Year_2019": 270.24
+ },
+ {
+   "Council": "LACHLAN SHIRE COUNCIL",
+   "Year_2017": 330.29,
+   "Year_2018": 353.09,
+   "Year_2019": 351
+ },
+ {
+   "Council": "LAKE MACQUARIE CITY COUNCIL",
+   "Year_2017": 275.44,
+   "Year_2018": 298.39,
+   "Year_2019": 306.23
+ },
+ {
+   "Council": "LANE COVE MUNICIPAL COUNCIL",
+   "Year_2017": 204.34,
+   "Year_2018": 220.3,
+   "Year_2019": 235.75
+ },
+ {
+   "Council": "LEETON SHIRE COUNCIL",
+   "Year_2017": 249.34,
+   "Year_2018": 244.28,
+   "Year_2019": 231.77
+ },
+ {
+   "Council": "LISMORE CITY COUNCIL",
+   "Year_2017": 367.16,
+   "Year_2018": 370.78,
+   "Year_2019": 477.61
+ },
+ {
+   "Council": "CITY OF LITHGOW COUNCIL",
+   "Year_2017": 180.68,
+   "Year_2018": 155.62,
+   "Year_2019": 181.92
+ },
+ {
+   "Council": "LIVERPOOL CITY COUNCIL",
+   "Year_2017": 180.33,
+   "Year_2018": 174.81,
+   "Year_2019": 192.17
+ },
+ {
+   "Council": "LIVERPOOL PLAINS SHIRE COUNCIL",
+   "Year_2017": 301.24,
+   "Year_2018": 234.78,
+   "Year_2019": 347.27
+ },
+ {
+   "Council": "LOCKHART SHIRE COUNCIL",
+   "Year_2017": 419.55,
+   "Year_2018": 353.72,
+   "Year_2019": 186.65
+ },
+ {
+   "Council": "MAITLAND CITY COUNCIL",
+   "Year_2017": 240.08,
+   "Year_2018": " ",
+   "Year_2019": 225.12
+ },
+ {
+   "Council": "MID-COAST COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 322.37,
+   "Year_2019": 319.03
+ },
+ {
+   "Council": "MID-WESTERN REGIONAL COUNCIL",
+   "Year_2017": 300.13,
+   "Year_2018": 313.36,
+   "Year_2019": 380.01
+ },
+ {
+   "Council": "MOREE PLAINS SHIRE COUNCIL",
+   "Year_2017": 329.95,
+   "Year_2018": 369.79,
+   "Year_2019": 325.47
+ },
+ {
+   "Council": "MOSMAN MUNICIPAL COUNCIL",
+   "Year_2017": 192.92,
+   "Year_2018": 189.77,
+   "Year_2019": 214.95
+ },
+ {
+   "Council": "MURRAY RIVER COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 241.64,
+   "Year_2019": 304.34
+ },
+ {
+   "Council": "MURRUMBIDGEE COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 266.19,
+   "Year_2019": 243.63
+ },
+ {
+   "Council": "MUSWELLBROOK SHIRE COUNCIL",
+   "Year_2017": 484.27,
+   "Year_2018": 455.36,
+   "Year_2019": 422.94
+ },
+ {
+   "Council": "NAMBUCCA SHIRE COUNCIL",
+   "Year_2017": 329.49,
+   "Year_2018": 331.37,
+   "Year_2019": 322.76
+ },
+ {
+   "Council": "NARRABRI SHIRE COUNCIL",
+   "Year_2017": 233.88,
+   "Year_2018": 271.58,
+   "Year_2019": 299.75
+ },
+ {
+   "Council": "NARRANDERA SHIRE COUNCIL",
+   "Year_2017": 157.8,
+   "Year_2018": 241.61,
+   "Year_2019": 226.61
+ },
+ {
+   "Council": "NARROMINE SHIRE COUNCIL",
+   "Year_2017": 221.4,
+   "Year_2018": 250.61,
+   "Year_2019": 335.47
+ },
+ {
+   "Council": "NEWCASTLE CITY COUNCIL",
+   "Year_2017": 370.32,
+   "Year_2018": 398.97,
+   "Year_2019": 520.16
+ },
+ {
+   "Council": "NORTH SYDNEY COUNCIL",
+   "Year_2017": 266.07,
+   "Year_2018": 273.99,
+   "Year_2019": 283.5
+ },
+ {
+   "Council": "NORTHERN BEACHES COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 354.94,
+   "Year_2019": 400.85
+ },
+ {
+   "Council": "OBERON COUNCIL",
+   "Year_2017": 199.67,
+   "Year_2018": 174.1,
+   "Year_2019": 175.08
+ },
+ {
+   "Council": "ORANGE CITY COUNCIL",
+   "Year_2017": 286.68,
+   "Year_2018": 268.42,
+   "Year_2019": 275.32
+ },
+ {
+   "Council": "PARKES SHIRE COUNCIL",
+   "Year_2017": 220.59,
+   "Year_2018": 250.3,
+   "Year_2019": 286.76
+ },
+ {
+   "Council": "CITY OF PARRAMATTA COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 180.86,
+   "Year_2019": 181.63
+ },
+ {
+   "Council": "PENRITH CITY COUNCIL",
+   "Year_2017": 186.79,
+   "Year_2018": 173.52,
+   "Year_2019": 203.71
+ },
+ {
+   "Council": "PORT MACQUARIE-HASTINGS COUNCIL",
+   "Year_2017": 329.83,
+   "Year_2018": 372.34,
+   "Year_2019": 357.21
+ },
+ {
+   "Council": "PORT STEPHENS COUNCIL",
+   "Year_2017": 287,
+   "Year_2018": 309.98,
+   "Year_2019": 288.85
+ },
+ {
+   "Council": "QUEANBEYAN-PALERANG REGIONAL COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 293.63,
+   "Year_2019": 313.4
+ },
+ {
+   "Council": "RANDWICK CITY COUNCIL",
+   "Year_2017": 310.89,
+   "Year_2018": 311.26,
+   "Year_2019": 306.09
+ },
+ {
+   "Council": "RICHMOND VALLEY COUNCIL",
+   "Year_2017": 288.08,
+   "Year_2018": 302.74,
+   "Year_2019": 311.47
+ },
+ {
+   "Council": "RYDE CITY COUNCIL",
+   "Year_2017": 180.93,
+   "Year_2018": 186.25,
+   "Year_2019": 191.73
+ },
+ {
+   "Council": "SHELLHARBOUR CITY COUNCIL",
+   "Year_2017": 403.72,
+   "Year_2018": 329.66,
+   "Year_2019": 339.69
+ },
+ {
+   "Council": "SHOALHAVEN CITY COUNCIL",
+   "Year_2017": 351.25,
+   "Year_2018": 398.16,
+   "Year_2019": 403.39
+ },
+ {
+   "Council": "SINGLETON COUNCIL",
+   "Year_2017": 272.81,
+   "Year_2018": 302.06,
+   "Year_2019": 287.17
+ },
+ {
+   "Council": "SNOWY MONARO REGIONAL COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 392.54,
+   "Year_2019": 409.49
+ },
+ {
+   "Council": "SNOWY VALLEYS COUNCIL",
+   "Year_2017": " ",
+   "Year_2018": 222.31,
+   "Year_2019": 202.73
+ },
+ {
+   "Council": "STRATHFIELD MUNICIPAL COUNCIL",
+   "Year_2017": 205.31,
+   "Year_2018": 225.6,
+   "Year_2019": 233.46
+ },
+ {
+   "Council": "SUTHERLAND SHIRE COUNCIL",
+   "Year_2017": 218.84,
+   "Year_2018": 196.51,
+   "Year_2019": 216.97
+ },
+ {
+   "Council": "COUNCIL OF THE CITY OF SYDNEY",
+   "Year_2017": 307.72,
+   "Year_2018": 298.99,
+   "Year_2019": 312.06
+ },
+ {
+   "Council": "TAMWORTH REGIONAL COUNCIL",
+   "Year_2017": 241.02,
+   "Year_2018": 253.35,
+   "Year_2019": 257.18
+ },
+ {
+   "Council": "TEMORA SHIRE COUNCIL",
+   "Year_2017": 164.21,
+   "Year_2018": 209.11,
+   "Year_2019": 187.12
+ },
+ {
+   "Council": "TENTERFIELD SHIRE COUNCIL",
+   "Year_2017": 346.63,
+   "Year_2018": 269.08,
+   "Year_2019": 394.25
+ },
+ {
+   "Council": "TWEED SHIRE COUNCIL",
+   "Year_2017": 312.64,
+   "Year_2018": 233.8,
+   "Year_2019": 233.47
+ },
+ {
+   "Council": "UPPER HUNTER SHIRE COUNCIL",
+   "Year_2017": 312.17,
+   "Year_2018": 361.3,
+   "Year_2019": 502.25
+ },
+ {
+   "Council": "UPPER LACHLAN SHIRE COUNCIL",
+   "Year_2017": 216.3,
+   "Year_2018": 255.91,
+   "Year_2019": 350.58
+ },
+ {
+   "Council": "URALLA SHIRE COUNCIL",
+   "Year_2017": 308.17,
+   "Year_2018": 315.42,
+   "Year_2019": 359.95
+ },
+ {
+   "Council": "WAGGA WAGGA CITY COUNCIL",
+   "Year_2017": 190.31,
+   "Year_2018": 206.79,
+   "Year_2019": 231.24
+ },
+ {
+   "Council": "WALCHA COUNCIL",
+   "Year_2017": 322.52,
+   "Year_2018": 329.83,
+   "Year_2019": 325.99
+ },
+ {
+   "Council": "WALGETT SHIRE COUNCIL",
+   "Year_2017": 223.9,
+   "Year_2018": 247.5,
+   "Year_2019": 314.16
+ },
+ {
+   "Council": "WARREN SHIRE COUNCIL",
+   "Year_2017": 315.13,
+   "Year_2018": 270.36,
+   "Year_2019": 365.39
+ },
+ {
+   "Council": "WARRUMBUNGLE SHIRE COUNCIL",
+   "Year_2017": 309.3,
+   "Year_2018": 317.07,
+   "Year_2019": 342.27
+ },
+ {
+   "Council": "WAVERLEY COUNCIL",
+   "Year_2017": 348.08,
+   "Year_2018": 353.08,
+   "Year_2019": 360.4
+ },
+ {
+   "Council": "WEDDIN SHIRE COUNCIL",
+   "Year_2017": 170.91,
+   "Year_2018": 191.16,
+   "Year_2019": 190.87
+ },
+ {
+   "Council": "WENTWORTH SHIRE COUNCIL",
+   "Year_2017": 363.29,
+   "Year_2018": 381.67,
+   "Year_2019": 400.31
+ },
+ {
+   "Council": "WILLOUGHBY CITY COUNCIL",
+   "Year_2017": 241.04,
+   "Year_2018": 244.47,
+   "Year_2019": 250.21
+ },
+ {
+   "Council": "WINGECARRIBEE SHIRE COUNCIL",
+   "Year_2017": 321.44,
+   "Year_2018": 304.09,
+   "Year_2019": 378.27
+ },
+ {
+   "Council": "WOLLONDILLY SHIRE COUNCIL",
+   "Year_2017": 180.43,
+   "Year_2018": 466.18,
+   "Year_2019": 256.19
+ },
+ {
+   "Council": "WOLLONGONG CITY COUNCIL",
+   "Year_2017": 290.87,
+   "Year_2018": 296.7,
+   "Year_2019": 292.27
+ },
+ {
+   "Council": "WOOLLAHRA MUNICIPAL COUNCIL",
+   "Year_2017": 274.52,
+   "Year_2018": 281.87,
+   "Year_2019": 279.2
+ },
+ {
+   "Council": "YASS VALLEY COUNCIL",
+   "Year_2017": 203.75,
+   "Year_2018": 223.31,
+   "Year_2019": 190.94
+ }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "Enterprise_industry": "All",
+    "METRO": "All",
+    "STATE": "All",
+    "FREQ": 24015,
+    "success": 8191
+  },
+  {
+    "Enterprise_industry": "Accommodation and Food Services",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 148,
+    "success": 52
+  },
+  {
+    "Enterprise_industry": "Accommodation and Food Services",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 204,
+    "success": 83
+  },
+  {
+    "Enterprise_industry": "Agriculture, Forestry, Fishing",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 190,
+    "success": 70
+  },
+  {
+    "Enterprise_industry": "Agriculture, Forestry, Fishing",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 122,
+    "success": 39
+  },
+  {
+    "Enterprise_industry": "Arts and Recreation Services",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 582,
+    "success": 215
+  },
+  {
+    "Enterprise_industry": "Arts and Recreation Services",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 2757,
+    "success": 946
+  },
+  {
+    "Enterprise_industry": "Construction",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 275,
+    "success": 126
+  },
+  {
+    "Enterprise_industry": "Construction",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 571,
+    "success": 167
+  },
+  {
+    "Enterprise_industry": "Education and Training",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 152,
+    "success": 54
+  },
+  {
+    "Enterprise_industry": "Education and Training",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 595,
+    "success": 204
+  },
+  {
+    "Enterprise_industry": "Financial and Insurance Services",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 13,
+    "success": 6
+  },
+  {
+    "Enterprise_industry": "Financial and Insurance Services",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 82,
+    "success": 29
+  },
+  {
+    "Enterprise_industry": "Health Care and Social Assistance",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 325,
+    "success": 140
+  },
+  {
+    "Enterprise_industry": "Health Care and Social Assistance",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 846,
+    "success": 303
+  },
+  {
+    "Enterprise_industry": "Information Media and Telecommunications",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 25,
+    "success": 11
+  },
+  {
+    "Enterprise_industry": "Information Media and Telecommunications",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 80,
+    "success": 18
+  },
+  {
+    "Enterprise_industry": "Manufacturing",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 574,
+    "success": 227
+  },
+  {
+    "Enterprise_industry": "Manufacturing",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 1100,
+    "success": 331
+  },
+  {
+    "Enterprise_industry": "Other",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 2561,
+    "success": 923
+  },
+  {
+    "Enterprise_industry": "Other",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 5676,
+    "success": 1872
+  },
+  {
+    "Enterprise_industry": "Professional, Scientific, Technical Services",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 643,
+    "success": 251
+  },
+  {
+    "Enterprise_industry": "Professional, Scientific, Technical Services",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 2852,
+    "success": 947
+  },
+  {
+    "Enterprise_industry": "Rental, Hiring and Real Estate Services",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 48,
+    "success": 17
+  },
+  {
+    "Enterprise_industry": "Rental, Hiring and Real Estate Services",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 123,
+    "success": 35
+  },
+  {
+    "Enterprise_industry": "Retail Trade",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 857,
+    "success": 299
+  },
+  {
+    "Enterprise_industry": "Retail Trade",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 2256,
+    "success": 690
+  },
+  {
+    "Enterprise_industry": "Transport, Postal and Warehousing",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 42,
+    "success": 16
+  },
+  {
+    "Enterprise_industry": "Transport, Postal and Warehousing",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 117,
+    "success": 36
+  },
+  {
+    "Enterprise_industry": "Wholesale Trade",
+    "METRO": "Non-metro area",
+    "STATE": "All",
+    "FREQ": 74,
+    "success": 38
+  },
+  {
+    "Enterprise_industry": "Wholesale Trade",
+    "METRO": "Metro area",
+    "STATE": "All",
+    "FREQ": 125,
+    "success": 46
+  }
+]

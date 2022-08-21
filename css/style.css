@@ -1,0 +1,35 @@
+.overflowVert {
+    height: 60em;
+    overflow-y: scroll;
+}
+@media (min-width: 1200px) {
+    .container {
+        max-width:1140px
+    }
+}
+
+#map {
+
+    height: 60em;
+    background-color: grey;
+}
+.charts {
+    display: none;
+    visibility: hidden;
+}
+
+.show {
+    display: block !important;
+    visibility: visible;
+    transition: all 0.5s ease-in-out;
+}
+
+.logo{
+   width: 103px;
+    height: 100% !important;
+    margin-top: -8px;
+}
+.icon-shape
+{
+    padding:3rem;
+}

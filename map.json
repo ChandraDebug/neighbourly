@@ -1,0 +1,1212 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "EPSG:4326"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.01698701100009,
+					-34.06491140412407]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-11602"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.1360739480001,
+					-30.2628136501781]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-29318"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					149.24258751500009,
+					-35.423318298108458]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-38030"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.91397071400002,
+					-34.37702821512026]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-31509"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.25840073000007,
+					-33.93419469112566]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-55555"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.22173700200006,
+					-33.92626704312573]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-29831"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.72645166100006,
+					-34.06934751612403]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-2787"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.45776236400003,
+					-33.259732593134248]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-33968"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.1460578110001,
+					-33.75050287612798]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-86237"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.10966111100005,
+					-32.776777088140679]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112809"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.7629582610001,
+					-34.58058672911789]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-71043"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.68807732800009,
+					-32.38913708714607]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-126311"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.74471498700007,
+					-33.99916140112489]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-113586"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.77579489000005,
+					-34.757590579115838]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-116628"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.90378641600013,
+					-33.930282213125689]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-175517"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.78206603800005,
+					-32.90833592313892]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112526"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.22872801500012,
+					-33.83748268812686]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112571"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.740932777,
+					-32.93773912713853]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125361"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					149.71343985600005,
+					-34.7284144631162]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112564"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.89408372800006,
+					-34.487088864119019]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102250"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.1582776030001,
+					-33.73848894412812]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112573"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.55832261000013,
+					-32.72754988614137]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125387"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.5506078400001,
+					-33.255083989134288]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-120760"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.70626328000004,
+					-32.92786267713863]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102261"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.80228266400003,
+					-33.94274078612555]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112537"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.1533306340001,
+					-33.742094032128047]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102234"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.58266503400012,
+					-32.75792163214095]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112525"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.92798620500003,
+					-33.92165921412584]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112567"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					147.01153080500013,
+					-36.02151959410222]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-120772"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.62609404300009,
+					-33.901617711126068]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102230"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					146.9729967180001,
+					-36.02118065510221]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112543"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.4858597960001,
+					-32.035547599151069]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125388"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.03767086400013,
+					-33.77413984612767]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112534"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.08190123600003,
+					-33.86481035912656]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125374"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.11620598600008,
+					-33.931573988125709]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-12077"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.2464294570001,
+					-33.81253898312718]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125371"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.27683312600005,
+					-33.88630609812627]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-122413"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.5491176580001,
+					-34.673572465116787]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-120785"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.13655214100005,
+					-34.0637157431241]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-11253"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.0914890130001,
+					-33.77042674912771]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-10545"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.97882166400007,
+					-33.671883480128929]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-120786"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					147.3726654930001,
+					-35.1810220591111]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125386"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.4652130940001,
+					-32.702753304141669]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125357"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.24762255100007,
+					-33.914843014125917]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112569"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					148.00976193300006,
+					-34.63531381611725]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102278"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					149.69325665200007,
+					-34.738460602116067]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102276"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					149.1272222780001,
+					-33.27606069313405]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-122422"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.11140692200002,
+					-33.96797534812525]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102260"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.84457115800013,
+					-34.69492415011657]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-122437"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.90788186700002,
+					-33.69584319712867]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112552"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.19292216300006,
+					-30.097552747180797]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-120777"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					149.71726611200007,
+					-34.74942907111592]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-105489"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.996039794,
+					-33.716616543128399]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-12537"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.9243780590001,
+					-33.8721024181264]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102266"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					146.99065342000007,
+					-36.04710807910191]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-105455"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.86374349100005,
+					-33.97466773812521]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-12538"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.44656239500012,
+					-34.45356571511938]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102238"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.57484149000005,
+					-34.07159194012398]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-105447"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.08052627300004,
+					-33.75010861112798]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-120787"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.43636951300005,
+					-34.49908288211886]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112572"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					149.36440959900006,
+					-33.585587291130057]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102280"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					149.16934376900009,
+					-35.401081200108688]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-120759"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					149.71622215600008,
+					-34.72334139211623]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125355"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.98961300500003,
+					-30.37853655017626]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102273"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.12640947400008,
+					-33.83099114412697]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-122440"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.99504912200008,
+					-33.96166164912531]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102275"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.09857559600006,
+					-33.69857669012862]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112575"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.43801754900006,
+					-31.92120267515269]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102263"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.2149525330001,
+					-33.752775435127947]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-12243"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.1301893200001,
+					-33.86743903412651]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-10547"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.11742530200002,
+					-34.0542737131242]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-122460"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.88956948500005,
+					-33.645358518129288]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112536"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.5869378740001,
+					-32.693081552141837]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-122443"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.4283818340001,
+					-33.430190428132018]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125356"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.614072318,
+					-34.91244531011407]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-122426"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.0174857720001,
+					-34.05118565112422]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102246"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.27911689600013,
+					-33.400490089132407]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125345"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.75086365200003,
+					-32.91951185013878]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102262"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.17768239600003,
+					-33.90441462112602]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-105444"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.565138842,
+					-28.24045715421285]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112553"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.67125323100005,
+					-33.58649545513004]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125375"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.35457119900003,
+					-33.429202315132027]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102271"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.9931154520001,
+					-33.7714702411277]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102254"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.18019182400009,
+					-30.168755730179666]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-12245"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.0907041360001,
+					-34.00225155412481]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-10224"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					148.92565707000007,
+					-34.83980879311491]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112533"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.18945884400012,
+					-33.90019590112608]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112530"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.28928466500009,
+					-33.779155278127607]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102269"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.80070946800005,
+					-32.85521307813961]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102233"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.97731582900009,
+					-33.84748600712677]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-122442"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.60704145300009,
+					-34.88117304411446]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125364"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.73956686600003,
+					-32.90282654313896]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-120736"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.63070248500004,
+					-32.91709998913877]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112582"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					144.73940636100009,
+					-36.106199443101377]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-120766"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.95027449100008,
+					-33.6820968211288]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-11257"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.01130265500013,
+					-33.879202707126378]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-12535"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.26948710700004,
+					-33.80308027312732]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-125363"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.12188974700008,
+					-33.827138394127]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-112580"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.448938859,
+					-34.448983544119467]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102264"
+			}
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.65867436000009,
+					-35.102242014111947]
+			},
+			"properties": {
+				"PLANNING_PORTAL_APP_NUMBER": "PAN-102258"
+			}
+		}
+	],
+	"exceededTransferLimit": true
+}

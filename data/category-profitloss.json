@@ -1,0 +1,377 @@
+[
+  {
+    "Enterprise_industry": "Agriculture, Forestry, Fishing",
+    "Total": 309031894,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Manufacturing",
+    "Total": 54266257880,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Construction",
+    "Total": 12187265886,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Wholesale Trade",
+    "Total": 24213526112,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Retail Trade",
+    "Total": 23156845380,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Accommodation and Food Services",
+    "Total": 3770188026,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Transport, Postal and Warehousing",
+    "Total": 12522524438,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Information Media and Telecommunications",
+    "Total": 16128389742,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Financial and Insurance Services",
+    "Total": 169770646312,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Rental, Hiring and Real Estate Services",
+    "Total": 17637870110,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Professional, Scientific, Technical Services",
+    "Total": 20732526764,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Education and Training",
+    "Total": 1555231838,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Health Care and Social Assistance",
+    "Total": 5540314114,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Arts and Recreation Services",
+    "Total": 2664493888,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Other",
+    "Total": 92980374768,
+    "year": "2012-13"
+  },
+  {
+    "Enterprise_industry": "Agriculture, Forestry, Fishing",
+    "Total": 1568652973,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Manufacturing",
+    "Total": 12399452076,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Construction",
+    "Total": 10213033700,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Wholesale Trade",
+    "Total": 8303332918,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Retail Trade",
+    "Total": 12144421055,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Accommodation and Food Services",
+    "Total": 2566330821,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Transport, Postal and Warehousing",
+    "Total": 253227529,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Information Media and Telecommunications",
+    "Total": 7639345564,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Financial and Insurance Services",
+    "Total": 87290546320,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Rental, Hiring and Real Estate Services",
+    "Total": 9691336151,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Professional, Scientific, Technical Services",
+    "Total": 11395307748,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Education and Training",
+    "Total": 849944368,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Health Care and Social Assistance",
+    "Total": 3206733364,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Arts and Recreation Services",
+    "Total": 1452906702,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Other",
+    "Total": 44649711309,
+    "year": "2013-14"
+  },
+  {
+    "Enterprise_industry": "Agriculture, Forestry, Fishing",
+    "Total": 2372106896,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Manufacturing",
+    "Total": 13790606216,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Construction",
+    "Total": 12635874425,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Wholesale Trade",
+    "Total": 10442286467,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Retail Trade",
+    "Total": 11991499713,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Accommodation and Food Services",
+    "Total": 2244490175,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Transport, Postal and Warehousing",
+    "Total": 5112697877,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Information Media and Telecommunications",
+    "Total": 2086111821,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Financial and Insurance Services",
+    "Total": 107181159684,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Rental, Hiring and Real Estate Services",
+    "Total": 9867419854,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Professional, Scientific, Technical Services",
+    "Total": 10211377967,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Education and Training",
+    "Total": 1013226822,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Health Care and Social Assistance",
+    "Total": 4318527417,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Arts and Recreation Services",
+    "Total": 1694825185,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Other",
+    "Total": -6616932202,
+    "year": "2014-15"
+  },
+  {
+    "Enterprise_industry": "Agriculture, Forestry, Fishing",
+    "Total": 3214459415,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Manufacturing",
+    "Total": 19170238559,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Construction",
+    "Total": 13690740113,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Wholesale Trade",
+    "Total": 11713303390,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Retail Trade",
+    "Total": 2771218733,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Accommodation and Food Services",
+    "Total": 3191564676,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Transport, Postal and Warehousing",
+    "Total": 5705384665,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Information Media and Telecommunications",
+    "Total": 7429925294,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Financial and Insurance Services",
+    "Total": 91947412072,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Rental, Hiring and Real Estate Services",
+    "Total": 10543174270,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Professional, Scientific, Technical Services",
+    "Total": 8680293762,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Education and Training",
+    "Total": 940311731,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Health Care and Social Assistance",
+    "Total": 4132587043,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Arts and Recreation Services",
+    "Total": 2360690266,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Other",
+    "Total": 2294719654,
+    "year": "2015-16"
+  },
+  {
+    "Enterprise_industry": "Agriculture, Forestry, Fishing",
+    "Total": 3666173017,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Manufacturing",
+    "Total": 20551352322,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Construction",
+    "Total": 16455418327,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Wholesale Trade",
+    "Total": 14268964248,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Retail Trade",
+    "Total": 13999442304,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Accommodation and Food Services",
+    "Total": 2589356138,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Transport, Postal and Warehousing",
+    "Total": 4481384643,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Information Media and Telecommunications",
+    "Total": -1275311397,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Financial and Insurance Services",
+    "Total": 105720557467,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Rental, Hiring and Real Estate Services",
+    "Total": 14081706648,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Professional, Scientific, Technical Services",
+    "Total": 11373548255,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Education and Training",
+    "Total": 637746950,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Health Care and Social Assistance",
+    "Total": 5719763961,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Arts and Recreation Services",
+    "Total": 3462137530,
+    "year": "2016-17"
+  },
+  {
+    "Enterprise_industry": "Other",
+    "Total": 33679400542,
+    "year": "2016-17"
+  }
+]

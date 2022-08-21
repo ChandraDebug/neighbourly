@@ -1,0 +1,5945 @@
+[
+  {
+    "Type": "Jobkeeper",
+    "Council": "ALBURY CITY COUNCIL",
+    "Postcode": "2640",
+    "April": "1376",
+    "May": "1464"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "ALBURY CITY COUNCIL",
+    "Postcode": "2641",
+    "April": "315",
+    "May": "342"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "ALBURY CITY COUNCIL",
+    "Postcode": "3691",
+    "April": "274",
+    "May": "303"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "ARMIDALE REGIONAL COUNCIL",
+    "Postcode": "2320",
+    "April": "1111",
+    "May": "1165"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "ARMIDALE REGIONAL COUNCIL",
+    "Postcode": "2350",
+    "April": "822",
+    "May": "891"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "ARMIDALE REGIONAL COUNCIL",
+    "Postcode": "2365",
+    "April": "207",
+    "May": "232"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "ARMIDALE REGIONAL COUNCIL",
+    "Postcode": "2369",
+    "April": "14",
+    "May": "14"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "ARMIDALE REGIONAL COUNCIL",
+    "Postcode": "2453",
+    "April": "90",
+    "May": "102"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BALLINA SHIRE COUNCIL",
+    "Postcode": "2477",
+    "April": "459",
+    "May": "499"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BALLINA SHIRE COUNCIL",
+    "Postcode": "2478",
+    "April": "1273",
+    "May": "1363"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BALLINA SHIRE COUNCIL",
+    "Postcode": "2479",
+    "April": "526",
+    "May": "565"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BALRANALD SHIRE COUNCIL",
+    "Postcode": "2715",
+    "April": "43",
+    "May": "49"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BALRANALD SHIRE COUNCIL",
+    "Postcode": "2737",
+    "April": "19",
+    "May": "23"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BATHURST REGIONAL COUNCIL",
+    "Postcode": "2795",
+    "April": "1163",
+    "May": "1246"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BATHURST REGIONAL COUNCIL",
+    "Postcode": "2799",
+    "April": "93",
+    "May": "94"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BATHURST REGIONAL COUNCIL",
+    "Postcode": "2850",
+    "April": "663",
+    "May": "682"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2018",
+    "April": "894",
+    "May": "909"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2019",
+    "April": "786",
+    "May": "833"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2020",
+    "April": "838",
+    "May": "851"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2032",
+    "April": "459",
+    "May": "474"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2035",
+    "April": "1423",
+    "May": "1478"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2036",
+    "April": "1148",
+    "May": "1230"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2205",
+    "April": "759",
+    "May": "779"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2207",
+    "April": "1003",
+    "May": "1038"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2208",
+    "April": "637",
+    "May": "676"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2216",
+    "April": "1265",
+    "May": "1313"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2217",
+    "April": "1243",
+    "May": "1270"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2218",
+    "April": "526",
+    "May": "536"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BAYSIDE COUNCIL",
+    "Postcode": "2219",
+    "April": "542",
+    "May": "574"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BEGA VALLEY SHIRE COUNCIL",
+    "Postcode": "2546",
+    "April": "451",
+    "May": "470"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BEGA VALLEY SHIRE COUNCIL",
+    "Postcode": "2548",
+    "April": "333",
+    "May": "354"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BEGA VALLEY SHIRE COUNCIL",
+    "Postcode": "2549",
+    "April": "176",
+    "May": "187"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BEGA VALLEY SHIRE COUNCIL",
+    "Postcode": "2550",
+    "April": "529",
+    "May": "567"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BEGA VALLEY SHIRE COUNCIL",
+    "Postcode": "2551",
+    "April": "134",
+    "May": "142"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BELLINGEN SHIRE COUNCIL",
+    "Postcode": "2453",
+    "April": "90",
+    "May": "102"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BELLINGEN SHIRE COUNCIL",
+    "Postcode": "2454",
+    "April": "350",
+    "May": "371"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BELLINGEN SHIRE COUNCIL",
+    "Postcode": "2455",
+    "April": "89",
+    "May": "99"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BERRIGAN SHIRE COUNCIL",
+    "Postcode": "2712",
+    "April": "65",
+    "May": "68"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BERRIGAN SHIRE COUNCIL",
+    "Postcode": "2713",
+    "April": "118",
+    "May": "136"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BERRIGAN SHIRE COUNCIL",
+    "Postcode": "2714",
+    "April": "98",
+    "May": "114"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BERRIGAN SHIRE COUNCIL",
+    "Postcode": "3644",
+    "April": "327",
+    "May": "343"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2146",
+    "April": "455",
+    "May": "468"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2147",
+    "April": "1330",
+    "May": "1399"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2148",
+    "April": "2295",
+    "May": "2381"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2155",
+    "April": "2184",
+    "May": "2290"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2747",
+    "April": "908",
+    "May": "938"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2761",
+    "April": "742",
+    "May": "771"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2762",
+    "April": "317",
+    "May": "330"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2763",
+    "April": "720",
+    "May": "754"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2765",
+    "April": "939",
+    "May": "1000"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2766",
+    "April": "386",
+    "May": "411"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2767",
+    "April": "429",
+    "May": "448"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2768",
+    "April": "866",
+    "May": "907"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2769",
+    "April": "381",
+    "May": "396"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLACKTOWN CITY COUNCIL",
+    "Postcode": "2770",
+    "April": "945",
+    "May": "984"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLAND SHIRE COUNCIL",
+    "Postcode": "2665",
+    "April": "100",
+    "May": "113"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLAND SHIRE COUNCIL",
+    "Postcode": "2668",
+    "April": "21",
+    "May": "24"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLAND SHIRE COUNCIL",
+    "Postcode": "2669",
+    "April": "93",
+    "May": "116"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLAND SHIRE COUNCIL",
+    "Postcode": "2671",
+    "April": "174",
+    "May": "186"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLAYNEY SHIRE COUNCIL",
+    "Postcode": "2791",
+    "April": "9",
+    "May": "9"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLAYNEY SHIRE COUNCIL",
+    "Postcode": "2792",
+    "April": "8",
+    "May": "8"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLAYNEY SHIRE COUNCIL",
+    "Postcode": "2795",
+    "April": "1163",
+    "May": "1246"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLAYNEY SHIRE COUNCIL",
+    "Postcode": "2797",
+    "April": "10",
+    "May": "10"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLAYNEY SHIRE COUNCIL",
+    "Postcode": "2798",
+    "April": "83",
+    "May": "92"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLAYNEY SHIRE COUNCIL",
+    "Postcode": "2799",
+    "April": "93",
+    "May": "94"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLAYNEY SHIRE COUNCIL",
+    "Postcode": "2800",
+    "April": "1324",
+    "May": "1378"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2758",
+    "April": "393",
+    "May": "411"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2773",
+    "April": "196",
+    "May": "215"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2774",
+    "April": "343",
+    "May": "360"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2776",
+    "April": "113",
+    "May": "116"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2777",
+    "April": "524",
+    "May": "555"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2779",
+    "April": "121",
+    "May": "131"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2780",
+    "April": "642",
+    "May": "665"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2782",
+    "April": "214",
+    "May": "228"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2783",
+    "April": "95",
+    "May": "97"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2784",
+    "April": "33",
+    "May": "37"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2785",
+    "April": "224",
+    "May": "234"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BLUE MOUNTAINS CITY COUNCIL",
+    "Postcode": "2786",
+    "April": "45",
+    "May": "49"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BOGAN SHIRE COUNCIL",
+    "Postcode": "2824",
+    "April": "114",
+    "May": "122"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BOGAN SHIRE COUNCIL",
+    "Postcode": "2825",
+    "April": "105",
+    "May": "111"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BOGAN SHIRE COUNCIL",
+    "Postcode": "2831",
+    "April": "149",
+    "May": "158"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BOURKE SHIRE COUNCIL",
+    "Postcode": "2831",
+    "April": "149",
+    "May": "158"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BOURKE SHIRE COUNCIL",
+    "Postcode": "2840",
+    "April": "91",
+    "May": "95"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BREWARRINA SHIRE COUNCIL",
+    "Postcode": "2838",
+    "April": "13",
+    "May": "17"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BREWARRINA SHIRE COUNCIL",
+    "Postcode": "2839",
+    "April": "20",
+    "May": "22"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BROKEN HILL CITY COUNCIL",
+    "Postcode": "2880",
+    "April": "405",
+    "May": "422"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BURWOOD COUNCIL",
+    "Postcode": "2132",
+    "April": "410",
+    "May": "427"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BURWOOD COUNCIL",
+    "Postcode": "2133",
+    "April": "399",
+    "May": "409"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BURWOOD COUNCIL",
+    "Postcode": "2134",
+    "April": "1068",
+    "May": "1099"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BURWOOD COUNCIL",
+    "Postcode": "2135",
+    "April": "1069",
+    "May": "1107"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BURWOOD COUNCIL",
+    "Postcode": "2136",
+    "April": "391",
+    "May": "404"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BURWOOD COUNCIL",
+    "Postcode": "2137",
+    "April": "1254",
+    "May": "1312"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BYRON SHIRE COUNCIL",
+    "Postcode": "2479",
+    "April": "526",
+    "May": "565"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BYRON SHIRE COUNCIL",
+    "Postcode": "2480",
+    "April": "1549",
+    "May": "1669"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BYRON SHIRE COUNCIL",
+    "Postcode": "2481",
+    "April": "1511",
+    "May": "1565"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BYRON SHIRE COUNCIL",
+    "Postcode": "2482",
+    "April": "529",
+    "May": "556"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "BYRON SHIRE COUNCIL",
+    "Postcode": "2483",
+    "April": "732",
+    "May": "779"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CABONNE SHIRE COUNCIL",
+    "Postcode": "2798",
+    "April": "83",
+    "May": "92"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CABONNE SHIRE COUNCIL",
+    "Postcode": "2800",
+    "April": "1324",
+    "May": "1378"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CABONNE SHIRE COUNCIL",
+    "Postcode": "2804",
+    "April": "105",
+    "May": "117"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CABONNE SHIRE COUNCIL",
+    "Postcode": "2806",
+    "April": "39",
+    "May": "43"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CABONNE SHIRE COUNCIL",
+    "Postcode": "2864",
+    "April": "29",
+    "May": "27"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CABONNE SHIRE COUNCIL",
+    "Postcode": "2865",
+    "April": "28",
+    "May": "29"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CABONNE SHIRE COUNCIL",
+    "Postcode": "2866",
+    "April": "111",
+    "May": "116"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CABONNE SHIRE COUNCIL",
+    "Postcode": "2867",
+    "April": "20",
+    "May": "22"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CABONNE SHIRE COUNCIL",
+    "Postcode": "2868",
+    "April": "19",
+    "May": "23"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMDEN COUNCIL",
+    "Postcode": "2171",
+    "April": "1137",
+    "May": "1171"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMDEN COUNCIL",
+    "Postcode": "2179",
+    "April": "359",
+    "May": "379"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMDEN COUNCIL",
+    "Postcode": "2556",
+    "April": "156",
+    "May": "164"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMDEN COUNCIL",
+    "Postcode": "2557",
+    "April": "467",
+    "May": "505"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMDEN COUNCIL",
+    "Postcode": "2567",
+    "April": "1395",
+    "May": "1496"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMDEN COUNCIL",
+    "Postcode": "2570",
+    "April": "1607",
+    "May": "1697"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMDEN COUNCIL",
+    "Postcode": "2579",
+    "April": "146",
+    "May": "159"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMPBELLTOWN CITY COUNCIL",
+    "Postcode": "2167",
+    "April": "223",
+    "May": "229"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMPBELLTOWN CITY COUNCIL",
+    "Postcode": "2558",
+    "April": "215",
+    "May": "219"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMPBELLTOWN CITY COUNCIL",
+    "Postcode": "2559",
+    "April": "49",
+    "May": "53"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMPBELLTOWN CITY COUNCIL",
+    "Postcode": "2560",
+    "April": "1748",
+    "May": "1819"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMPBELLTOWN CITY COUNCIL",
+    "Postcode": "2563",
+    "April": "9",
+    "May": "9"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMPBELLTOWN CITY COUNCIL",
+    "Postcode": "2564",
+    "April": "313",
+    "May": "321"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMPBELLTOWN CITY COUNCIL",
+    "Postcode": "2565",
+    "April": "916",
+    "May": "970"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMPBELLTOWN CITY COUNCIL",
+    "Postcode": "2566",
+    "April": "796",
+    "May": "838"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMPBELLTOWN CITY COUNCIL",
+    "Postcode": "2568",
+    "April": "37",
+    "May": "44"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CAMPBELLTOWN CITY COUNCIL",
+    "Postcode": "2583",
+    "April": "139",
+    "May": "150"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2133",
+    "April": "399",
+    "May": "409"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2143",
+    "April": "405",
+    "May": "419"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2162",
+    "April": "671",
+    "May": "699"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2163",
+    "April": "328",
+    "May": "335"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2190",
+    "April": "1407",
+    "May": "1443"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2191",
+    "April": "245",
+    "May": "256"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2192",
+    "April": "627",
+    "May": "636"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2193",
+    "April": "603",
+    "May": "621"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2194",
+    "April": "1135",
+    "May": "1141"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2195",
+    "April": "1542",
+    "May": "1542"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2196",
+    "April": "1503",
+    "May": "1539"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2197",
+    "April": "394",
+    "May": "414"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2198",
+    "April": "298",
+    "May": "314"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2199",
+    "April": "681",
+    "May": "714"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2200",
+    "April": "2397",
+    "May": "2466"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2206",
+    "April": "822",
+    "May": "847"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2208",
+    "April": "637",
+    "May": "676"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2209",
+    "April": "565",
+    "May": "582"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2210",
+    "April": "1220",
+    "May": "1287"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2211",
+    "April": "742",
+    "May": "764"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2212",
+    "April": "682",
+    "May": "706"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2213",
+    "April": "599",
+    "May": "632"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CANTERBURY-BANKSTOWN COUNCIL",
+    "Postcode": "2214",
+    "April": "241",
+    "May": "256"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CARRATHOOL SHIRE COUNCIL",
+    "Postcode": "2652",
+    "April": "174",
+    "May": "204"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CARRATHOOL SHIRE COUNCIL",
+    "Postcode": "2669",
+    "April": "93",
+    "May": "116"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CARRATHOOL SHIRE COUNCIL",
+    "Postcode": "2675",
+    "April": "46",
+    "May": "53"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CARRATHOOL SHIRE COUNCIL",
+    "Postcode": "2681",
+    "April": "43",
+    "May": "52"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CARRATHOOL SHIRE COUNCIL",
+    "Postcode": "2711",
+    "April": "108",
+    "May": "117"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2083",
+    "April": "87",
+    "May": "88"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2250",
+    "April": "2747",
+    "May": "2890"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2251",
+    "April": "1218",
+    "May": "1286"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2256",
+    "April": "393",
+    "May": "415"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2257",
+    "April": "913",
+    "May": "982"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2258",
+    "April": "193",
+    "May": "203"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2259",
+    "April": "1776",
+    "May": "1855"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2260",
+    "April": "1161",
+    "May": "1235"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2261",
+    "April": "1516",
+    "May": "1624"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2262",
+    "April": "360",
+    "May": "380"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2263",
+    "April": "556",
+    "May": "583"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL COAST COUNCIL",
+    "Postcode": "2775",
+    "April": "75",
+    "May": "76"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL DARLING SHIRE COUNCIL",
+    "Postcode": "2836",
+    "April": "13",
+    "May": "17"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL DARLING SHIRE COUNCIL",
+    "Postcode": "2840",
+    "April": "91",
+    "May": "95"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL DARLING SHIRE COUNCIL",
+    "Postcode": "2878",
+    "April": "12",
+    "May": "13"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CENTRAL DARLING SHIRE COUNCIL",
+    "Postcode": "2879",
+    "April": "11",
+    "May": "11"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CESSNOCK CITY COUNCIL",
+    "Postcode": "2320",
+    "April": "1111",
+    "May": "1165"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CESSNOCK CITY COUNCIL",
+    "Postcode": "2321",
+    "April": "389",
+    "May": "406"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CESSNOCK CITY COUNCIL",
+    "Postcode": "2322",
+    "April": "522",
+    "May": "564"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CESSNOCK CITY COUNCIL",
+    "Postcode": "2323",
+    "April": "636",
+    "May": "662"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CESSNOCK CITY COUNCIL",
+    "Postcode": "2325",
+    "April": "638",
+    "May": "669"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CESSNOCK CITY COUNCIL",
+    "Postcode": "2326",
+    "April": "129",
+    "May": "134"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CESSNOCK CITY COUNCIL",
+    "Postcode": "2327",
+    "April": "137",
+    "May": "139"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CESSNOCK CITY COUNCIL",
+    "Postcode": "2330",
+    "April": "438",
+    "May": "464"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CESSNOCK CITY COUNCIL",
+    "Postcode": "2334",
+    "April": "51",
+    "May": "52"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CESSNOCK CITY COUNCIL",
+    "Postcode": "2335",
+    "April": "172",
+    "May": "180"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CESSNOCK CITY COUNCIL",
+    "Postcode": "2753",
+    "April": "595",
+    "May": "636"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF CANADA BAY COUNCIL",
+    "Postcode": "2009",
+    "April": "882",
+    "May": "906"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF CANADA BAY COUNCIL",
+    "Postcode": "2041",
+    "April": "923",
+    "May": "988"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF CANADA BAY COUNCIL",
+    "Postcode": "2046",
+    "April": "1318",
+    "May": "1382"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF CANADA BAY COUNCIL",
+    "Postcode": "2047",
+    "April": "643",
+    "May": "671"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF CANADA BAY COUNCIL",
+    "Postcode": "2137",
+    "April": "1254",
+    "May": "1312"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF CANADA BAY COUNCIL",
+    "Postcode": "2138",
+    "April": "744",
+    "May": "784"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF LITHGOW COUNCIL",
+    "Postcode": "2786",
+    "April": "45",
+    "May": "49"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF LITHGOW COUNCIL",
+    "Postcode": "2787",
+    "April": "107",
+    "May": "116"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF LITHGOW COUNCIL",
+    "Postcode": "2790",
+    "April": "333",
+    "May": "346"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF LITHGOW COUNCIL",
+    "Postcode": "2845",
+    "April": "36",
+    "May": "35"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF LITHGOW COUNCIL",
+    "Postcode": "2846",
+    "April": "11",
+    "May": "12"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF LITHGOW COUNCIL",
+    "Postcode": "2847",
+    "April": "32",
+    "May": "35"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2115",
+    "April": "399",
+    "May": "426"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2116",
+    "April": "427",
+    "May": "461"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2117",
+    "April": "758",
+    "May": "791"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2118",
+    "April": "1056",
+    "May": "1104"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2121",
+    "April": "1064",
+    "May": "1102"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2127",
+    "April": "811",
+    "May": "845"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2128",
+    "April": "467",
+    "May": "482"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2141",
+    "April": "1223",
+    "May": "1271"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2142",
+    "April": "1157",
+    "May": "1182"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2145",
+    "April": "2583",
+    "May": "2661"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2146",
+    "April": "455",
+    "May": "468"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2150",
+    "April": "1955",
+    "May": "2036"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2151",
+    "April": "839",
+    "May": "862"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2152",
+    "April": "354",
+    "May": "375"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CITY OF PARRAMATTA COUNCIL",
+    "Postcode": "2153",
+    "April": "2888",
+    "May": "3037"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CLARENCE VALLEY COUNCIL",
+    "Postcode": "2450",
+    "April": "1805",
+    "May": "1920"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CLARENCE VALLEY COUNCIL",
+    "Postcode": "2453",
+    "April": "90",
+    "May": "102"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CLARENCE VALLEY COUNCIL",
+    "Postcode": "2460",
+    "April": "648",
+    "May": "678"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CLARENCE VALLEY COUNCIL",
+    "Postcode": "2462",
+    "April": "70",
+    "May": "76"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CLARENCE VALLEY COUNCIL",
+    "Postcode": "2463",
+    "April": "215",
+    "May": "228"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CLARENCE VALLEY COUNCIL",
+    "Postcode": "2464",
+    "April": "310",
+    "May": "322"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CLARENCE VALLEY COUNCIL",
+    "Postcode": "2465",
+    "April": "10",
+    "May": "11"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CLARENCE VALLEY COUNCIL",
+    "Postcode": "2466",
+    "April": "43",
+    "May": "44"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CLARENCE VALLEY COUNCIL",
+    "Postcode": "2469",
+    "April": "99",
+    "May": "102"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COBAR SHIRE COUNCIL",
+    "Postcode": "2831",
+    "April": "149",
+    "May": "158"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COBAR SHIRE COUNCIL",
+    "Postcode": "2835",
+    "April": "115",
+    "May": "123"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COBAR SHIRE COUNCIL",
+    "Postcode": "2877",
+    "April": "136",
+    "May": "140"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COFFS HARBOUR CITY COUNCIL",
+    "Postcode": "2450",
+    "April": "1805",
+    "May": "1920"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COFFS HARBOUR CITY COUNCIL",
+    "Postcode": "2452",
+    "April": "394",
+    "May": "427"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COFFS HARBOUR CITY COUNCIL",
+    "Postcode": "2456",
+    "April": "493",
+    "May": "509"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COOLAMON SHIRE COUNCIL",
+    "Postcode": "2652",
+    "April": "174",
+    "May": "204"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COOLAMON SHIRE COUNCIL",
+    "Postcode": "2665",
+    "April": "100",
+    "May": "113"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COOLAMON SHIRE COUNCIL",
+    "Postcode": "2701",
+    "April": "62",
+    "May": "70"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COOLAMON SHIRE COUNCIL",
+    "Postcode": "2702",
+    "April": "22",
+    "May": "23"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COONAMBLE SHIRE COUNCIL",
+    "Postcode": "2828",
+    "April": "44",
+    "May": "47"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COONAMBLE SHIRE COUNCIL",
+    "Postcode": "2829",
+    "April": "138",
+    "May": "151"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COONAMBLE SHIRE COUNCIL",
+    "Postcode": "2831",
+    "April": "149",
+    "May": "158"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL",
+    "Postcode": "2588",
+    "April": "22",
+    "May": "25"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL",
+    "Postcode": "2590",
+    "April": "190",
+    "May": "219"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL",
+    "Postcode": "2591",
+    "April": "190",
+    "May": "219"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL",
+    "Postcode": "2722",
+    "April": "90",
+    "May": "108"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL",
+    "Postcode": "2725",
+    "April": "16",
+    "May": "19"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL",
+    "Postcode": "2727",
+    "April": "15",
+    "May": "20"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COOTAMUNDRA-GUNDAGAI REGIONAL COUNCIL",
+    "Postcode": "2729",
+    "April": "50",
+    "May": "67"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2000",
+    "April": "10447",
+    "May": "10837"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2006",
+    "April": "11",
+    "May": "11"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2007",
+    "April": "532",
+    "May": "544"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2008",
+    "April": "480",
+    "May": "497"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2009",
+    "April": "882",
+    "May": "906"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2010",
+    "April": "3012",
+    "May": "3109"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2011",
+    "April": "1206",
+    "May": "1259"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2015",
+    "April": "1298",
+    "May": "1335"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2016",
+    "April": "697",
+    "May": "708"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2017",
+    "April": "952",
+    "May": "993"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2018",
+    "April": "894",
+    "May": "909"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2021",
+    "April": "1052",
+    "May": "1076"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2033",
+    "April": "424",
+    "May": "442"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2037",
+    "April": "665",
+    "May": "688"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2038",
+    "April": "510",
+    "May": "530"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2039",
+    "April": "532",
+    "May": "558"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2042",
+    "April": "1068",
+    "May": "1120"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2043",
+    "April": "317",
+    "May": "338"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2044",
+    "April": "555",
+    "May": "577"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2050",
+    "April": "417",
+    "May": "441"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2060",
+    "April": "1764",
+    "May": "1860"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "2061",
+    "April": "378",
+    "May": "404"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COUNCIL OF THE CITY OF SYDNEY",
+    "Postcode": "5035",
+    "April": "293",
+    "May": "314"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COWRA SHIRE COUNCIL",
+    "Postcode": "2643",
+    "April": "59",
+    "May": "63"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COWRA SHIRE COUNCIL",
+    "Postcode": "2646",
+    "April": "228",
+    "May": "245"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COWRA SHIRE COUNCIL",
+    "Postcode": "2793",
+    "April": "30",
+    "May": "31"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COWRA SHIRE COUNCIL",
+    "Postcode": "2794",
+    "April": "332",
+    "May": "368"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COWRA SHIRE COUNCIL",
+    "Postcode": "2804",
+    "April": "105",
+    "May": "117"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COWRA SHIRE COUNCIL",
+    "Postcode": "2805",
+    "April": "17",
+    "May": "18"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "COWRA SHIRE COUNCIL",
+    "Postcode": "2808",
+    "April": "10",
+    "May": "12"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2127",
+    "April": "811",
+    "May": "845"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2128",
+    "April": "467",
+    "May": "482"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2141",
+    "April": "1223",
+    "May": "1271"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2142",
+    "April": "1157",
+    "May": "1182"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2143",
+    "April": "405",
+    "May": "419"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2144",
+    "April": "1916",
+    "May": "1985"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2145",
+    "April": "2583",
+    "May": "2661"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2146",
+    "April": "455",
+    "May": "468"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2150",
+    "April": "1955",
+    "May": "2036"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2160",
+    "April": "1598",
+    "May": "1649"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2161",
+    "April": "1393",
+    "May": "1444"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2164",
+    "April": "1520",
+    "May": "1598"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2214",
+    "April": "241",
+    "May": "256"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2142",
+    "April": "1157",
+    "May": "1182"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2145",
+    "April": "2583",
+    "May": "2661"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2146",
+    "April": "455",
+    "May": "468"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "CUMBERLAND COUNCIL",
+    "Postcode": "2161",
+    "April": "1393",
+    "May": "1444"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "DUBBO REGIONAL COUNCIL",
+    "Postcode": "2818",
+    "April": "20",
+    "May": "20"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "DUBBO REGIONAL COUNCIL",
+    "Postcode": "2820",
+    "April": "167",
+    "May": "174"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "DUBBO REGIONAL COUNCIL",
+    "Postcode": "2821",
+    "April": "187",
+    "May": "207"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "DUBBO REGIONAL COUNCIL",
+    "Postcode": "2822",
+    "April": "19",
+    "May": "17"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "DUBBO REGIONAL COUNCIL",
+    "Postcode": "2830",
+    "April": "1456",
+    "May": "1567"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "DUBBO REGIONAL COUNCIL",
+    "Postcode": "2831",
+    "April": "149",
+    "May": "158"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "DUNGOG SHIRE COUNCIL",
+    "Postcode": "2311",
+    "April": "36",
+    "May": "36"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "DUNGOG SHIRE COUNCIL",
+    "Postcode": "2321",
+    "April": "389",
+    "May": "406"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "DUNGOG SHIRE COUNCIL",
+    "Postcode": "2420",
+    "April": "139",
+    "May": "146"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "DUNGOG SHIRE COUNCIL",
+    "Postcode": "2421",
+    "April": "73",
+    "May": "80"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "EDWARD RIVER COUNCIL",
+    "Postcode": "2710",
+    "April": "333",
+    "May": "365"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "EDWARD RIVER COUNCIL",
+    "Postcode": "2713",
+    "April": "118",
+    "May": "136"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "EUROBODALLA SHIRE COUNCIL",
+    "Postcode": "2536",
+    "April": "583",
+    "May": "613"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "EUROBODALLA SHIRE COUNCIL",
+    "Postcode": "2537",
+    "April": "361",
+    "May": "378"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "EUROBODALLA SHIRE COUNCIL",
+    "Postcode": "2538",
+    "April": "144",
+    "May": "157"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "EUROBODALLA SHIRE COUNCIL",
+    "Postcode": "2545",
+    "April": "35",
+    "May": "35"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "EUROBODALLA SHIRE COUNCIL",
+    "Postcode": "2546",
+    "April": "451",
+    "May": "470"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FAIRFIELD CITY COUNCIL",
+    "Postcode": "2161",
+    "April": "1393",
+    "May": "1444"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FAIRFIELD CITY COUNCIL",
+    "Postcode": "2163",
+    "April": "328",
+    "May": "335"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FAIRFIELD CITY COUNCIL",
+    "Postcode": "2164",
+    "April": "1520",
+    "May": "1598"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FAIRFIELD CITY COUNCIL",
+    "Postcode": "2165",
+    "April": "1290",
+    "May": "1313"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FAIRFIELD CITY COUNCIL",
+    "Postcode": "2166",
+    "April": "1700",
+    "May": "1736"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FAIRFIELD CITY COUNCIL",
+    "Postcode": "2170",
+    "April": "4061",
+    "May": "4172"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FAIRFIELD CITY COUNCIL",
+    "Postcode": "2175",
+    "April": "147",
+    "May": "158"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FAIRFIELD CITY COUNCIL",
+    "Postcode": "2176",
+    "April": "1383",
+    "May": "1425"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FAIRFIELD CITY COUNCIL",
+    "Postcode": "2177",
+    "April": "383",
+    "May": "394"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FEDERATION COUNCIL",
+    "Postcode": "2642",
+    "April": "173",
+    "May": "208"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FEDERATION COUNCIL",
+    "Postcode": "2643",
+    "April": "59",
+    "May": "63"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FEDERATION COUNCIL",
+    "Postcode": "2645",
+    "April": "26",
+    "May": "30"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FEDERATION COUNCIL",
+    "Postcode": "2646",
+    "April": "228",
+    "May": "245"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FEDERATION COUNCIL",
+    "Postcode": "2647",
+    "April": "81",
+    "May": "89"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FEDERATION COUNCIL",
+    "Postcode": "2652",
+    "April": "174",
+    "May": "204"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FEDERATION COUNCIL",
+    "Postcode": "2700",
+    "April": "113",
+    "May": "123"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FORBES SHIRE COUNCIL",
+    "Postcode": "2806",
+    "April": "39",
+    "May": "43"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FORBES SHIRE COUNCIL",
+    "Postcode": "2871",
+    "April": "356",
+    "May": "392"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "FORBES SHIRE COUNCIL",
+    "Postcode": "2875",
+    "April": "47",
+    "May": "58"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GEORGES RIVER COUNCIL",
+    "Postcode": "2208",
+    "April": "637",
+    "May": "676"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GEORGES RIVER COUNCIL",
+    "Postcode": "2209",
+    "April": "565",
+    "May": "582"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GEORGES RIVER COUNCIL",
+    "Postcode": "2210",
+    "April": "1220",
+    "May": "1287"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GEORGES RIVER COUNCIL",
+    "Postcode": "2217",
+    "April": "1243",
+    "May": "1270"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GEORGES RIVER COUNCIL",
+    "Postcode": "2218",
+    "April": "526",
+    "May": "536"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GEORGES RIVER COUNCIL",
+    "Postcode": "2219",
+    "April": "542",
+    "May": "574"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GEORGES RIVER COUNCIL",
+    "Postcode": "2220",
+    "April": "1492",
+    "May": "1550"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GEORGES RIVER COUNCIL",
+    "Postcode": "2221",
+    "April": "664",
+    "May": "701"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GEORGES RIVER COUNCIL",
+    "Postcode": "2222",
+    "April": "374",
+    "May": "388"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GEORGES RIVER COUNCIL",
+    "Postcode": "2223",
+    "April": "710",
+    "May": "754"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GILGANDRA SHIRE COUNCIL",
+    "Postcode": "2817",
+    "April": "11",
+    "May": "11"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GILGANDRA SHIRE COUNCIL",
+    "Postcode": "2827",
+    "April": "125",
+    "May": "139"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GILGANDRA SHIRE COUNCIL",
+    "Postcode": "2828",
+    "April": "44",
+    "May": "47"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GILGANDRA SHIRE COUNCIL",
+    "Postcode": "2831",
+    "April": "149",
+    "May": "158"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GLEN INNES SEVERN COUNCIL",
+    "Postcode": "2365",
+    "April": "207",
+    "May": "232"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GLEN INNES SEVERN COUNCIL",
+    "Postcode": "2370",
+    "April": "333",
+    "May": "365"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GLEN INNES SEVERN COUNCIL",
+    "Postcode": "2371",
+    "April": "49",
+    "May": "60"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GOULBURN MULWAREE COUNCIL",
+    "Postcode": "2579",
+    "April": "146",
+    "May": "159"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GOULBURN MULWAREE COUNCIL",
+    "Postcode": "2580",
+    "April": "738",
+    "May": "794"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GREATER HUME SHIRE COUNCIL",
+    "Postcode": "2640",
+    "April": "1376",
+    "May": "1464"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GREATER HUME SHIRE COUNCIL",
+    "Postcode": "2642",
+    "April": "173",
+    "May": "208"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GREATER HUME SHIRE COUNCIL",
+    "Postcode": "2644",
+    "April": "67",
+    "May": "80"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GREATER HUME SHIRE COUNCIL",
+    "Postcode": "2658",
+    "April": "45",
+    "May": "57"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GREATER HUME SHIRE COUNCIL",
+    "Postcode": "2659",
+    "April": "28",
+    "May": "35"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GREATER HUME SHIRE COUNCIL",
+    "Postcode": "2660",
+    "April": "47",
+    "May": "50"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GRIFFITH CITY COUNCIL",
+    "Postcode": "2680",
+    "April": "823",
+    "May": "921"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GRIFFITH CITY COUNCIL",
+    "Postcode": "2681",
+    "April": "43",
+    "May": "52"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GRIFFITH CITY COUNCIL",
+    "Postcode": "2705",
+    "April": "227",
+    "May": "236"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GUNNEDAH SHIRE COUNCIL",
+    "Postcode": "2340",
+    "April": "1551",
+    "May": "1649"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GUNNEDAH SHIRE COUNCIL",
+    "Postcode": "2379",
+    "April": "23",
+    "May": "29"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GUNNEDAH SHIRE COUNCIL",
+    "Postcode": "2380",
+    "April": "322",
+    "May": "354"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GUNNEDAH SHIRE COUNCIL",
+    "Postcode": "2381",
+    "April": "41",
+    "May": "50"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GWYDIR SHIRE COUNCIL",
+    "Postcode": "2347",
+    "April": "81",
+    "May": "97"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GWYDIR SHIRE COUNCIL",
+    "Postcode": "2401",
+    "April": "15",
+    "May": "18"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GWYDIR SHIRE COUNCIL",
+    "Postcode": "2402",
+    "April": "80",
+    "May": "89"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GWYDIR SHIRE COUNCIL",
+    "Postcode": "2404",
+    "April": "57",
+    "May": "65"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GWYDIR SHIRE COUNCIL",
+    "Postcode": "2408",
+    "April": "35",
+    "May": "37"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GWYDIR SHIRE COUNCIL",
+    "Postcode": "2410",
+    "April": "13",
+    "May": "12"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "GWYDIR SHIRE COUNCIL",
+    "Postcode": "2411",
+    "April": "5",
+    "May": "6"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HAWKESBURY CITY COUNCIL",
+    "Postcode": "2753",
+    "April": "595",
+    "May": "636"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HAWKESBURY CITY COUNCIL",
+    "Postcode": "2754",
+    "April": "187",
+    "May": "207"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HAWKESBURY CITY COUNCIL",
+    "Postcode": "2756",
+    "April": "1357",
+    "May": "1462"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HAWKESBURY CITY COUNCIL",
+    "Postcode": "2757",
+    "April": "39",
+    "May": "40"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HAWKESBURY CITY COUNCIL",
+    "Postcode": "2758",
+    "April": "393",
+    "May": "411"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HAWKESBURY CITY COUNCIL",
+    "Postcode": "2765",
+    "April": "939",
+    "May": "1000"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HAWKESBURY CITY COUNCIL",
+    "Postcode": "2775",
+    "April": "75",
+    "May": "76"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HAY SHIRE COUNCIL",
+    "Postcode": "2711",
+    "April": "108",
+    "May": "117"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HILLTOPS COUNCIL",
+    "Postcode": "2585",
+    "April": "12",
+    "May": "12"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HILLTOPS COUNCIL",
+    "Postcode": "2586",
+    "April": "116",
+    "May": "125"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HILLTOPS COUNCIL",
+    "Postcode": "2587",
+    "April": "119",
+    "May": "125"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HILLTOPS COUNCIL",
+    "Postcode": "2594",
+    "April": "377",
+    "May": "406"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HILLTOPS COUNCIL",
+    "Postcode": "2726",
+    "April": "15",
+    "May": "16"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "HILLTOPS COUNCIL",
+    "Postcode": "2807",
+    "April": "10",
+    "May": "12"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2000",
+    "April": "10447",
+    "May": "10837"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2037",
+    "April": "665",
+    "May": "688"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2038",
+    "April": "510",
+    "May": "530"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2039",
+    "April": "532",
+    "May": "558"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2040",
+    "April": "1211",
+    "May": "1258"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2041",
+    "April": "923",
+    "May": "988"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2042",
+    "April": "1068",
+    "May": "1120"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2044",
+    "April": "555",
+    "May": "577"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2045",
+    "April": "286",
+    "May": "301"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2048",
+    "April": "330",
+    "May": "336"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2049",
+    "April": "480",
+    "May": "504"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2050",
+    "April": "417",
+    "May": "441"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2089",
+    "April": "747",
+    "May": "781"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2130",
+    "April": "318",
+    "May": "332"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2131",
+    "April": "746",
+    "May": "775"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2132",
+    "April": "410",
+    "May": "427"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2145",
+    "April": "2583",
+    "May": "2661"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2193",
+    "April": "603",
+    "May": "621"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2203",
+    "April": "428",
+    "May": "447"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2204",
+    "April": "1510",
+    "May": "1579"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INNER WEST COUNCIL",
+    "Postcode": "2220",
+    "April": "1492",
+    "May": "1550"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INVERELL SHIRE COUNCIL",
+    "Postcode": "2360",
+    "April": "454",
+    "May": "488"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INVERELL SHIRE COUNCIL",
+    "Postcode": "2361",
+    "April": "36",
+    "May": "34"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INVERELL SHIRE COUNCIL",
+    "Postcode": "2369",
+    "April": "14",
+    "May": "14"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INVERELL SHIRE COUNCIL",
+    "Postcode": "2403",
+    "April": "40",
+    "May": "44"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "INVERELL SHIRE COUNCIL",
+    "Postcode": "2410",
+    "April": "13",
+    "May": "12"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "JUNEE SHIRE COUNCIL",
+    "Postcode": "2590",
+    "April": "190",
+    "May": "219"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "JUNEE SHIRE COUNCIL",
+    "Postcode": "2650",
+    "April": "1824",
+    "May": "1985"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "JUNEE SHIRE COUNCIL",
+    "Postcode": "2663",
+    "April": "108",
+    "May": "125"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "JUNEE SHIRE COUNCIL",
+    "Postcode": "2666",
+    "April": "227",
+    "May": "259"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KEMPSEY SHIRE COUNCIL",
+    "Postcode": "2431",
+    "April": "144",
+    "May": "145"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KEMPSEY SHIRE COUNCIL",
+    "Postcode": "2440",
+    "April": "508",
+    "May": "534"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KEMPSEY SHIRE COUNCIL",
+    "Postcode": "2441",
+    "April": "128",
+    "May": "128"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KU-RING-GAI COUNCIL",
+    "Postcode": "2069",
+    "April": "660",
+    "May": "701"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KU-RING-GAI COUNCIL",
+    "Postcode": "2070",
+    "April": "584",
+    "May": "596"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KU-RING-GAI COUNCIL",
+    "Postcode": "2071",
+    "April": "497",
+    "May": "518"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KU-RING-GAI COUNCIL",
+    "Postcode": "2072",
+    "April": "468",
+    "May": "497"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KU-RING-GAI COUNCIL",
+    "Postcode": "2073",
+    "April": "713",
+    "May": "735"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KU-RING-GAI COUNCIL",
+    "Postcode": "2074",
+    "April": "793",
+    "May": "820"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KU-RING-GAI COUNCIL",
+    "Postcode": "2075",
+    "April": "893",
+    "May": "937"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KU-RING-GAI COUNCIL",
+    "Postcode": "2076",
+    "April": "888",
+    "May": "941"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KU-RING-GAI COUNCIL",
+    "Postcode": "2077",
+    "April": "1516",
+    "May": "1596"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KYOGLE COUNCIL",
+    "Postcode": "2469",
+    "April": "99",
+    "May": "102"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KYOGLE COUNCIL",
+    "Postcode": "2474",
+    "April": "194",
+    "May": "214"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KYOGLE COUNCIL",
+    "Postcode": "2475",
+    "April": "14",
+    "May": "15"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "KYOGLE COUNCIL",
+    "Postcode": "2476",
+    "April": "11",
+    "May": "15"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LACHLAN SHIRE COUNCIL",
+    "Postcode": "2669",
+    "April": "93",
+    "May": "116"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LACHLAN SHIRE COUNCIL",
+    "Postcode": "2671",
+    "April": "174",
+    "May": "186"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LACHLAN SHIRE COUNCIL",
+    "Postcode": "2672",
+    "April": "50",
+    "May": "58"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LACHLAN SHIRE COUNCIL",
+    "Postcode": "2873",
+    "April": "58",
+    "May": "63"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LACHLAN SHIRE COUNCIL",
+    "Postcode": "2875",
+    "April": "47",
+    "May": "58"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LACHLAN SHIRE COUNCIL",
+    "Postcode": "2877",
+    "April": "136",
+    "May": "140"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2259",
+    "April": "1776",
+    "May": "1855"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2264",
+    "April": "423",
+    "May": "448"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2265",
+    "April": "160",
+    "May": "169"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2267",
+    "April": "73",
+    "May": "76"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2280",
+    "April": "768",
+    "May": "806"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2281",
+    "April": "427",
+    "May": "432"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2282",
+    "April": "517",
+    "May": "545"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2283",
+    "April": "601",
+    "May": "630"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2284",
+    "April": "328",
+    "May": "338"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2285",
+    "April": "796",
+    "May": "840"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2286",
+    "April": "79",
+    "May": "83"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2289",
+    "April": "638",
+    "May": "686"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2290",
+    "April": "1151",
+    "May": "1220"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2306",
+    "April": "17",
+    "May": "16"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LAKE MACQUARIE CITY COUNCIL",
+    "Postcode": "2323",
+    "April": "636",
+    "May": "662"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LANE COVE MUNICIPAL COUNCIL",
+    "Postcode": "2065",
+    "April": "2027",
+    "May": "2101"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LANE COVE MUNICIPAL COUNCIL",
+    "Postcode": "2066",
+    "April": "1428",
+    "May": "1478"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LEETON SHIRE COUNCIL",
+    "Postcode": "2703",
+    "April": "8",
+    "May": "9"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LEETON SHIRE COUNCIL",
+    "Postcode": "2705",
+    "April": "227",
+    "May": "236"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LISMORE CITY COUNCIL",
+    "Postcode": "2472",
+    "April": "53",
+    "May": "59"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LISMORE CITY COUNCIL",
+    "Postcode": "2480",
+    "April": "1549",
+    "May": "1669"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL CITY COUNCIL",
+    "Postcode": "2168",
+    "April": "950",
+    "May": "973"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL CITY COUNCIL",
+    "Postcode": "2170",
+    "April": "4061",
+    "May": "4172"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL CITY COUNCIL",
+    "Postcode": "2171",
+    "April": "1137",
+    "May": "1171"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL CITY COUNCIL",
+    "Postcode": "2173",
+    "April": "290",
+    "May": "295"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL CITY COUNCIL",
+    "Postcode": "2174",
+    "April": "224",
+    "May": "233"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL CITY COUNCIL",
+    "Postcode": "2178",
+    "April": "235",
+    "May": "250"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL CITY COUNCIL",
+    "Postcode": "2179",
+    "April": "359",
+    "May": "379"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL CITY COUNCIL",
+    "Postcode": "2556",
+    "April": "156",
+    "May": "164"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL CITY COUNCIL",
+    "Postcode": "2565",
+    "April": "916",
+    "May": "970"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL CITY COUNCIL",
+    "Postcode": "2745",
+    "April": "784",
+    "May": "838"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL PLAINS SHIRE COUNCIL",
+    "Postcode": "2339",
+    "April": "41",
+    "May": "43"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL PLAINS SHIRE COUNCIL",
+    "Postcode": "2341",
+    "April": "27",
+    "May": "26"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL PLAINS SHIRE COUNCIL",
+    "Postcode": "2342",
+    "April": "22",
+    "May": "29"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL PLAINS SHIRE COUNCIL",
+    "Postcode": "2343",
+    "April": "190",
+    "May": "209"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LIVERPOOL PLAINS SHIRE COUNCIL",
+    "Postcode": "2381",
+    "April": "41",
+    "May": "50"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LOCKHART SHIRE COUNCIL",
+    "Postcode": "2642",
+    "April": "173",
+    "May": "208"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LOCKHART SHIRE COUNCIL",
+    "Postcode": "2650",
+    "April": "1824",
+    "May": "1985"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LOCKHART SHIRE COUNCIL",
+    "Postcode": "2655",
+    "April": "43",
+    "May": "50"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LOCKHART SHIRE COUNCIL",
+    "Postcode": "2656",
+    "April": "56",
+    "May": "68"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "LOCKHART SHIRE COUNCIL",
+    "Postcode": "2658",
+    "April": "45",
+    "May": "57"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MAITLAND CITY COUNCIL",
+    "Postcode": "2320",
+    "April": "1111",
+    "May": "1165"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MAITLAND CITY COUNCIL",
+    "Postcode": "2321",
+    "April": "389",
+    "May": "406"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MAITLAND CITY COUNCIL",
+    "Postcode": "2322",
+    "April": "522",
+    "May": "564"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MAITLAND CITY COUNCIL",
+    "Postcode": "2323",
+    "April": "636",
+    "May": "662"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MAITLAND CITY COUNCIL",
+    "Postcode": "2325",
+    "April": "638",
+    "May": "669"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2312",
+    "April": "49",
+    "May": "50"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2324",
+    "April": "586",
+    "May": "609"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2415",
+    "April": "8",
+    "May": "11"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2422",
+    "April": "158",
+    "May": "165"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2423",
+    "April": "102",
+    "May": "114"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2424",
+    "April": "18",
+    "May": "20"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2425",
+    "April": "63",
+    "May": "70"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2426",
+    "April": "11",
+    "May": "11"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2427",
+    "April": "53",
+    "May": "54"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2428",
+    "April": "728",
+    "May": "768"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2429",
+    "April": "200",
+    "May": "208"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2430",
+    "April": "757",
+    "May": "821"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-COAST COUNCIL",
+    "Postcode": "2443",
+    "April": "218",
+    "May": "226"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-WESTERN REGIONAL COUNCIL",
+    "Postcode": "2335",
+    "April": "172",
+    "May": "180"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-WESTERN REGIONAL COUNCIL",
+    "Postcode": "2795",
+    "April": "1163",
+    "May": "1246"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-WESTERN REGIONAL COUNCIL",
+    "Postcode": "2848",
+    "April": "17",
+    "May": "19"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-WESTERN REGIONAL COUNCIL",
+    "Postcode": "2849",
+    "April": "61",
+    "May": "61"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-WESTERN REGIONAL COUNCIL",
+    "Postcode": "2850",
+    "April": "663",
+    "May": "682"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MID-WESTERN REGIONAL COUNCIL",
+    "Postcode": "2852",
+    "April": "104",
+    "May": "109"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MOREE PLAINS SHIRE COUNCIL",
+    "Postcode": "2398",
+    "April": "20",
+    "May": "19"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MOREE PLAINS SHIRE COUNCIL",
+    "Postcode": "2399",
+    "April": "27",
+    "May": "31"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MOREE PLAINS SHIRE COUNCIL",
+    "Postcode": "2400",
+    "April": "426",
+    "May": "465"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MOREE PLAINS SHIRE COUNCIL",
+    "Postcode": "2405",
+    "April": "43",
+    "May": "47"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MOREE PLAINS SHIRE COUNCIL",
+    "Postcode": "2406",
+    "April": "36",
+    "May": "42"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MOREE PLAINS SHIRE COUNCIL",
+    "Postcode": "2409",
+    "April": "21",
+    "May": "27"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MOSMAN MUNICIPAL COUNCIL",
+    "Postcode": "2047",
+    "April": "643",
+    "May": "671"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MOSMAN MUNICIPAL COUNCIL",
+    "Postcode": "2088",
+    "April": "1383",
+    "May": "1451"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MOSMAN MUNICIPAL COUNCIL",
+    "Postcode": "2090",
+    "April": "567",
+    "May": "600"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRAY RIVER COUNCIL",
+    "Postcode": "2710",
+    "April": "333",
+    "May": "365"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRAY RIVER COUNCIL",
+    "Postcode": "2719",
+    "April": "21",
+    "May": "25"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRAY RIVER COUNCIL",
+    "Postcode": "2731",
+    "April": "230",
+    "May": "251"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRAY RIVER COUNCIL",
+    "Postcode": "2732",
+    "April": "66",
+    "May": "71"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRAY RIVER COUNCIL",
+    "Postcode": "2733",
+    "April": "19",
+    "May": "19"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRAY RIVER COUNCIL",
+    "Postcode": "2734",
+    "April": "18",
+    "May": "19"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRAY RIVER COUNCIL",
+    "Postcode": "2735",
+    "April": "8",
+    "May": "11"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRAY RIVER COUNCIL",
+    "Postcode": "2736",
+    "April": "9",
+    "May": "13"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRAY RIVER COUNCIL",
+    "Postcode": "3564",
+    "April": "667",
+    "May": "697"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRUMBIDGEE COUNCIL",
+    "Postcode": "2706",
+    "April": "20",
+    "May": "24"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRUMBIDGEE COUNCIL",
+    "Postcode": "2707",
+    "April": "78",
+    "May": "91"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MURRUMBIDGEE COUNCIL",
+    "Postcode": "2716",
+    "April": "63",
+    "May": "71"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MUSWELLBROOK SHIRE COUNCIL",
+    "Postcode": "2328",
+    "April": "51",
+    "May": "52"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MUSWELLBROOK SHIRE COUNCIL",
+    "Postcode": "2330",
+    "April": "438",
+    "May": "464"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "MUSWELLBROOK SHIRE COUNCIL",
+    "Postcode": "2333",
+    "April": "206",
+    "May": "217"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NAMBUCCA SHIRE COUNCIL",
+    "Postcode": "2441",
+    "April": "128",
+    "May": "128"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NAMBUCCA SHIRE COUNCIL",
+    "Postcode": "2447",
+    "April": "212",
+    "May": "227"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NAMBUCCA SHIRE COUNCIL",
+    "Postcode": "2448",
+    "April": "227",
+    "May": "238"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NAMBUCCA SHIRE COUNCIL",
+    "Postcode": "2449",
+    "April": "51",
+    "May": "59"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NARRABRI SHIRE COUNCIL",
+    "Postcode": "2382",
+    "April": "56",
+    "May": "62"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NARRABRI SHIRE COUNCIL",
+    "Postcode": "2388",
+    "April": "147",
+    "May": "156"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NARRABRI SHIRE COUNCIL",
+    "Postcode": "2390",
+    "April": "316",
+    "May": "336"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NARRABRI SHIRE COUNCIL",
+    "Postcode": "2397",
+    "April": "26",
+    "May": "29"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NARRANDERA SHIRE COUNCIL",
+    "Postcode": "2652",
+    "April": "174",
+    "May": "204"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NARRANDERA SHIRE COUNCIL",
+    "Postcode": "2665",
+    "April": "100",
+    "May": "113"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NARRANDERA SHIRE COUNCIL",
+    "Postcode": "2700",
+    "April": "113",
+    "May": "123"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NARROMINE SHIRE COUNCIL",
+    "Postcode": "2821",
+    "April": "187",
+    "May": "207"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NARROMINE SHIRE COUNCIL",
+    "Postcode": "2823",
+    "April": "83",
+    "May": "86"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NARROMINE SHIRE COUNCIL",
+    "Postcode": "2869",
+    "April": "93",
+    "May": "104"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2282",
+    "April": "517",
+    "May": "545"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2287",
+    "April": "726",
+    "May": "759"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2289",
+    "April": "638",
+    "May": "686"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2291",
+    "April": "678",
+    "May": "707"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2292",
+    "April": "195",
+    "May": "201"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2293",
+    "April": "156",
+    "May": "162"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2294",
+    "April": "99",
+    "May": "109"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2295",
+    "April": "127",
+    "May": "132"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2296",
+    "April": "87",
+    "May": "89"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2297",
+    "April": "61",
+    "May": "66"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2298",
+    "April": "205",
+    "May": "215"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2299",
+    "April": "294",
+    "May": "306"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2300",
+    "April": "873",
+    "May": "931"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2302",
+    "April": "202",
+    "May": "209"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2303",
+    "April": "414",
+    "May": "436"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2304",
+    "April": "499",
+    "May": "525"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2305",
+    "April": "408",
+    "May": "437"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2307",
+    "April": "46",
+    "May": "46"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2308",
+    "April": "7",
+    "May": "6"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NEWCASTLE CITY COUNCIL",
+    "Postcode": "2322",
+    "April": "522",
+    "May": "564"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTH SYDNEY COUNCIL",
+    "Postcode": "2060",
+    "April": "1764",
+    "May": "1860"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTH SYDNEY COUNCIL",
+    "Postcode": "2061",
+    "April": "378",
+    "May": "404"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTH SYDNEY COUNCIL",
+    "Postcode": "2062",
+    "April": "346",
+    "May": "357"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTH SYDNEY COUNCIL",
+    "Postcode": "2065",
+    "April": "2027",
+    "May": "2101"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTH SYDNEY COUNCIL",
+    "Postcode": "2089",
+    "April": "747",
+    "May": "781"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTH SYDNEY COUNCIL",
+    "Postcode": "2090",
+    "April": "567",
+    "May": "600"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTH SYDNEY COUNCIL",
+    "Postcode": "2096",
+    "April": "709",
+    "May": "745"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2084",
+    "April": "219",
+    "May": "237"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2085",
+    "April": "525",
+    "May": "553"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2086",
+    "April": "684",
+    "May": "731"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2087",
+    "April": "532",
+    "May": "565"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2092",
+    "April": "368",
+    "May": "386"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2093",
+    "April": "1133",
+    "May": "1204"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2094",
+    "April": "248",
+    "May": "270"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2095",
+    "April": "1051",
+    "May": "1116"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2096",
+    "April": "709",
+    "May": "745"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2097",
+    "April": "725",
+    "May": "769"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2099",
+    "April": "1866",
+    "May": "1966"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2100",
+    "April": "1707",
+    "May": "1802"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2101",
+    "April": "957",
+    "May": "1022"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2102",
+    "April": "553",
+    "May": "566"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2103",
+    "April": "795",
+    "May": "842"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2104",
+    "April": "184",
+    "May": "195"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2105",
+    "April": "118",
+    "May": "126"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2106",
+    "April": "604",
+    "May": "638"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2107",
+    "April": "1078",
+    "May": "1131"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "NORTHERN BEACHES COUNCIL",
+    "Postcode": "2108",
+    "April": "118",
+    "May": "125"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "OBERON COUNCIL",
+    "Postcode": "2787",
+    "April": "107",
+    "May": "116"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "OBERON COUNCIL",
+    "Postcode": "2790",
+    "April": "333",
+    "May": "346"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "OBERON COUNCIL",
+    "Postcode": "2795",
+    "April": "1163",
+    "May": "1246"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "ORANGE CITY COUNCIL",
+    "Postcode": "2800",
+    "April": "1324",
+    "May": "1378"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PARKES SHIRE COUNCIL",
+    "Postcode": "2869",
+    "April": "93",
+    "May": "104"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PARKES SHIRE COUNCIL",
+    "Postcode": "2870",
+    "April": "390",
+    "May": "417"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PARKES SHIRE COUNCIL",
+    "Postcode": "2874",
+    "April": "29",
+    "May": "32"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PARKES SHIRE COUNCIL",
+    "Postcode": "2875",
+    "April": "47",
+    "May": "58"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PARKES SHIRE COUNCIL",
+    "Postcode": "2876",
+    "April": "36",
+    "May": "38"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PENRITH CITY COUNCIL",
+    "Postcode": "2178",
+    "April": "235",
+    "May": "250"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PENRITH CITY COUNCIL",
+    "Postcode": "2745",
+    "April": "784",
+    "May": "838"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PENRITH CITY COUNCIL",
+    "Postcode": "2747",
+    "April": "908",
+    "May": "938"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PENRITH CITY COUNCIL",
+    "Postcode": "2748",
+    "April": "111",
+    "May": "120"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PENRITH CITY COUNCIL",
+    "Postcode": "2749",
+    "April": "353",
+    "May": "364"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PENRITH CITY COUNCIL",
+    "Postcode": "2750",
+    "April": "1658",
+    "May": "1746"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PENRITH CITY COUNCIL",
+    "Postcode": "2753",
+    "April": "595",
+    "May": "636"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PENRITH CITY COUNCIL",
+    "Postcode": "2759",
+    "April": "577",
+    "May": "599"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PENRITH CITY COUNCIL",
+    "Postcode": "2760",
+    "April": "743",
+    "May": "768"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT MACQUARIE-HASTINGS COUNCIL",
+    "Postcode": "2429",
+    "April": "200",
+    "May": "208"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT MACQUARIE-HASTINGS COUNCIL",
+    "Postcode": "2439",
+    "April": "102",
+    "May": "105"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT MACQUARIE-HASTINGS COUNCIL",
+    "Postcode": "2441",
+    "April": "128",
+    "May": "128"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT MACQUARIE-HASTINGS COUNCIL",
+    "Postcode": "2443",
+    "April": "218",
+    "May": "226"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT MACQUARIE-HASTINGS COUNCIL",
+    "Postcode": "2444",
+    "April": "1781",
+    "May": "1847"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT MACQUARIE-HASTINGS COUNCIL",
+    "Postcode": "2445",
+    "April": "201",
+    "May": "213"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT MACQUARIE-HASTINGS COUNCIL",
+    "Postcode": "2446",
+    "April": "439",
+    "May": "458"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT STEPHENS COUNCIL",
+    "Postcode": "2295",
+    "April": "127",
+    "May": "132"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT STEPHENS COUNCIL",
+    "Postcode": "2304",
+    "April": "499",
+    "May": "525"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT STEPHENS COUNCIL",
+    "Postcode": "2315",
+    "April": "499",
+    "May": "527"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT STEPHENS COUNCIL",
+    "Postcode": "2316",
+    "April": "265",
+    "May": "282"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT STEPHENS COUNCIL",
+    "Postcode": "2317",
+    "April": "256",
+    "May": "273"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT STEPHENS COUNCIL",
+    "Postcode": "2318",
+    "April": "317",
+    "May": "330"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT STEPHENS COUNCIL",
+    "Postcode": "2319",
+    "April": "104",
+    "May": "112"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT STEPHENS COUNCIL",
+    "Postcode": "2321",
+    "April": "389",
+    "May": "406"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT STEPHENS COUNCIL",
+    "Postcode": "2322",
+    "April": "522",
+    "May": "564"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "PORT STEPHENS COUNCIL",
+    "Postcode": "2324",
+    "April": "586",
+    "May": "609"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "QUEANBEYAN-PALERANG REGIONAL COUNCIL",
+    "Postcode": "2580",
+    "April": "738",
+    "May": "794"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "QUEANBEYAN-PALERANG REGIONAL COUNCIL",
+    "Postcode": "2581",
+    "April": "65",
+    "May": "71"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "QUEANBEYAN-PALERANG REGIONAL COUNCIL",
+    "Postcode": "2619",
+    "April": "170",
+    "May": "176"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "QUEANBEYAN-PALERANG REGIONAL COUNCIL",
+    "Postcode": "2620",
+    "April": "1073",
+    "May": "1132"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "QUEANBEYAN-PALERANG REGIONAL COUNCIL",
+    "Postcode": "2621",
+    "April": "183",
+    "May": "196"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "QUEANBEYAN-PALERANG REGIONAL COUNCIL",
+    "Postcode": "2622",
+    "April": "166",
+    "May": "189"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "QUEANBEYAN-PALERANG REGIONAL COUNCIL",
+    "Postcode": "2623",
+    "April": "10",
+    "May": "13"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RANDWICK CITY COUNCIL",
+    "Postcode": "2021",
+    "April": "1052",
+    "May": "1076"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RANDWICK CITY COUNCIL",
+    "Postcode": "2031",
+    "April": "1533",
+    "May": "1589"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RANDWICK CITY COUNCIL",
+    "Postcode": "2032",
+    "April": "459",
+    "May": "474"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RANDWICK CITY COUNCIL",
+    "Postcode": "2033",
+    "April": "424",
+    "May": "442"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RANDWICK CITY COUNCIL",
+    "Postcode": "2034",
+    "April": "863",
+    "May": "896"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RANDWICK CITY COUNCIL",
+    "Postcode": "2035",
+    "April": "1423",
+    "May": "1478"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RANDWICK CITY COUNCIL",
+    "Postcode": "2036",
+    "April": "1148",
+    "May": "1230"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RICHMOND VALLEY COUNCIL",
+    "Postcode": "2469",
+    "April": "99",
+    "May": "102"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RICHMOND VALLEY COUNCIL",
+    "Postcode": "2470",
+    "April": "322",
+    "May": "353"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RICHMOND VALLEY COUNCIL",
+    "Postcode": "2471",
+    "April": "39",
+    "May": "45"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RICHMOND VALLEY COUNCIL",
+    "Postcode": "2472",
+    "April": "53",
+    "May": "59"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RICHMOND VALLEY COUNCIL",
+    "Postcode": "2473",
+    "April": "76",
+    "May": "80"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "ROCKDALE CITY COUNCIL",
+    "Postcode": "2216",
+    "April": "1265",
+    "May": "1313"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "ROCKDALE CITY COUNCIL",
+    "Postcode": "2217",
+    "April": "1243",
+    "May": "1270"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RYDE CITY COUNCIL",
+    "Postcode": "2085",
+    "April": "525",
+    "May": "553"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RYDE CITY COUNCIL",
+    "Postcode": "2111",
+    "April": "756",
+    "May": "810"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RYDE CITY COUNCIL",
+    "Postcode": "2112",
+    "April": "1318",
+    "May": "1368"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RYDE CITY COUNCIL",
+    "Postcode": "2113",
+    "April": "1072",
+    "May": "1116"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RYDE CITY COUNCIL",
+    "Postcode": "2114",
+    "April": "901",
+    "May": "935"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "RYDE CITY COUNCIL",
+    "Postcode": "2122",
+    "April": "1281",
+    "May": "1341"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SHELLHARBOUR CITY COUNCIL",
+    "Postcode": "2527",
+    "April": "494",
+    "May": "516"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SHELLHARBOUR CITY COUNCIL",
+    "Postcode": "2528",
+    "April": "402",
+    "May": "430"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SHELLHARBOUR CITY COUNCIL",
+    "Postcode": "2529",
+    "April": "745",
+    "May": "790"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SHOALHAVEN CITY COUNCIL",
+    "Postcode": "2511",
+    "April": "346",
+    "May": "366"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SHOALHAVEN CITY COUNCIL",
+    "Postcode": "2535",
+    "April": "357",
+    "May": "376"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SHOALHAVEN CITY COUNCIL",
+    "Postcode": "2536",
+    "April": "583",
+    "May": "613"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SHOALHAVEN CITY COUNCIL",
+    "Postcode": "2538",
+    "April": "144",
+    "May": "157"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SHOALHAVEN CITY COUNCIL",
+    "Postcode": "2539",
+    "April": "742",
+    "May": "772"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SHOALHAVEN CITY COUNCIL",
+    "Postcode": "2540",
+    "April": "1187",
+    "May": "1249"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SHOALHAVEN CITY COUNCIL",
+    "Postcode": "2541",
+    "April": "799",
+    "May": "847"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SHOALHAVEN CITY COUNCIL",
+    "Postcode": "2577",
+    "April": "744",
+    "May": "805"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SINGLETON COUNCIL",
+    "Postcode": "2320",
+    "April": "1111",
+    "May": "1165"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SINGLETON COUNCIL",
+    "Postcode": "2325",
+    "April": "638",
+    "May": "669"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SINGLETON COUNCIL",
+    "Postcode": "2330",
+    "April": "438",
+    "May": "464"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SINGLETON COUNCIL",
+    "Postcode": "2335",
+    "April": "172",
+    "May": "180"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2620",
+    "April": "1073",
+    "May": "1132"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2622",
+    "April": "166",
+    "May": "189"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2624",
+    "April": "10",
+    "May": "10"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2625",
+    "April": "50",
+    "May": "51"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2626",
+    "April": "18",
+    "May": "20"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2627",
+    "April": "311",
+    "May": "327"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2628",
+    "April": "93",
+    "May": "111"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2629",
+    "April": "23",
+    "May": "22"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2630",
+    "April": "302",
+    "May": "338"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2631",
+    "April": "24",
+    "May": "29"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2632",
+    "April": "65",
+    "May": "74"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY MONARO REGIONAL COUNCIL",
+    "Postcode": "2633",
+    "April": "11",
+    "May": "10"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY VALLEYS COUNCIL",
+    "Postcode": "2629",
+    "April": "23",
+    "May": "22"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY VALLEYS COUNCIL",
+    "Postcode": "2642",
+    "April": "173",
+    "May": "208"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY VALLEYS COUNCIL",
+    "Postcode": "2652",
+    "April": "174",
+    "May": "204"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY VALLEYS COUNCIL",
+    "Postcode": "2653",
+    "April": "63",
+    "May": "65"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY VALLEYS COUNCIL",
+    "Postcode": "2720",
+    "April": "190",
+    "May": "216"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY VALLEYS COUNCIL",
+    "Postcode": "2729",
+    "April": "50",
+    "May": "67"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SNOWY VALLEYS COUNCIL",
+    "Postcode": "2730",
+    "April": "45",
+    "May": "46"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "STRATHFIELD MUNICIPAL COUNCIL",
+    "Postcode": "2129",
+    "April": "34",
+    "May": "35"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "STRATHFIELD MUNICIPAL COUNCIL",
+    "Postcode": "2134",
+    "April": "1068",
+    "May": "1099"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "STRATHFIELD MUNICIPAL COUNCIL",
+    "Postcode": "2135",
+    "April": "1069",
+    "May": "1107"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "STRATHFIELD MUNICIPAL COUNCIL",
+    "Postcode": "2136",
+    "April": "391",
+    "May": "404"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "STRATHFIELD MUNICIPAL COUNCIL",
+    "Postcode": "2140",
+    "April": "746",
+    "May": "783"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "STRATHFIELD MUNICIPAL COUNCIL",
+    "Postcode": "2190",
+    "April": "1407",
+    "May": "1443"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SUTHERLAND SHIRE COUNCIL",
+    "Postcode": "2224",
+    "April": "644",
+    "May": "673"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SUTHERLAND SHIRE COUNCIL",
+    "Postcode": "2225",
+    "April": "179",
+    "May": "196"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SUTHERLAND SHIRE COUNCIL",
+    "Postcode": "2226",
+    "April": "364",
+    "May": "373"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SUTHERLAND SHIRE COUNCIL",
+    "Postcode": "2227",
+    "April": "531",
+    "May": "561"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SUTHERLAND SHIRE COUNCIL",
+    "Postcode": "2228",
+    "April": "948",
+    "May": "1000"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SUTHERLAND SHIRE COUNCIL",
+    "Postcode": "2229",
+    "April": "1865",
+    "May": "1953"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SUTHERLAND SHIRE COUNCIL",
+    "Postcode": "2230",
+    "April": "1455",
+    "May": "1542"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SUTHERLAND SHIRE COUNCIL",
+    "Postcode": "2231",
+    "April": "141",
+    "May": "150"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SUTHERLAND SHIRE COUNCIL",
+    "Postcode": "2232",
+    "April": "1318",
+    "May": "1377"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SUTHERLAND SHIRE COUNCIL",
+    "Postcode": "2233",
+    "April": "781",
+    "May": "856"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "SUTHERLAND SHIRE COUNCIL",
+    "Postcode": "2234",
+    "April": "1045",
+    "May": "1096"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TAMWORTH REGIONAL COUNCIL",
+    "Postcode": "2338",
+    "April": "61",
+    "May": "65"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TAMWORTH REGIONAL COUNCIL",
+    "Postcode": "2340",
+    "April": "1551",
+    "May": "1649"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TAMWORTH REGIONAL COUNCIL",
+    "Postcode": "2344",
+    "April": "23",
+    "May": "28"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TAMWORTH REGIONAL COUNCIL",
+    "Postcode": "2345",
+    "April": "32",
+    "May": "36"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TAMWORTH REGIONAL COUNCIL",
+    "Postcode": "2346",
+    "April": "96",
+    "May": "102"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TAMWORTH REGIONAL COUNCIL",
+    "Postcode": "2347",
+    "April": "81",
+    "May": "97"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TAMWORTH REGIONAL COUNCIL",
+    "Postcode": "2352",
+    "April": "83",
+    "May": "89"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TAMWORTH REGIONAL COUNCIL",
+    "Postcode": "2353",
+    "April": "23",
+    "May": "24"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TAMWORTH REGIONAL COUNCIL",
+    "Postcode": "2355",
+    "April": "12",
+    "May": "13"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TEMORA SHIRE COUNCIL",
+    "Postcode": "2230",
+    "April": "1455",
+    "May": "1542"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TEMORA SHIRE COUNCIL",
+    "Postcode": "2665",
+    "April": "100",
+    "May": "113"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TEMORA SHIRE COUNCIL",
+    "Postcode": "2666",
+    "April": "227",
+    "May": "259"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TEMORA SHIRE COUNCIL",
+    "Postcode": "2668",
+    "April": "21",
+    "May": "24"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TENTERFIELD SHIRE COUNCIL",
+    "Postcode": "2371",
+    "April": "49",
+    "May": "60"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TENTERFIELD SHIRE COUNCIL",
+    "Postcode": "2372",
+    "April": "221",
+    "May": "240"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TENTERFIELD SHIRE COUNCIL",
+    "Postcode": "2469",
+    "April": "99",
+    "May": "102"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TENTERFIELD SHIRE COUNCIL",
+    "Postcode": "2475",
+    "April": "14",
+    "May": "15"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TENTERFIELD SHIRE COUNCIL",
+    "Postcode": "2476",
+    "April": "11",
+    "May": "15"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE MUNICIPALITY OF HUNTERS HILL",
+    "Postcode": "2110",
+    "April": "469",
+    "May": "483"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE MUNICIPALITY OF HUNTERS HILL",
+    "Postcode": "2111",
+    "April": "756",
+    "May": "810"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE MUNICIPALITY OF HUNTERS HILL",
+    "Postcode": "2284",
+    "April": "328",
+    "May": "338"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE MUNICIPALITY OF KIAMA",
+    "Postcode": "2533",
+    "April": "622",
+    "May": "648"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE MUNICIPALITY OF KIAMA",
+    "Postcode": "2534",
+    "April": "244",
+    "May": "257"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE MUNICIPALITY OF KIAMA",
+    "Postcode": "2577",
+    "April": "744",
+    "May": "805"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2076",
+    "April": "888",
+    "May": "941"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2077",
+    "April": "1516",
+    "May": "1596"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2079",
+    "April": "199",
+    "May": "217"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2080",
+    "April": "126",
+    "May": "134"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2081",
+    "April": "164",
+    "May": "186"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2082",
+    "April": "161",
+    "May": "170"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2083",
+    "April": "87",
+    "May": "88"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2119",
+    "April": "440",
+    "May": "455"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2120",
+    "April": "753",
+    "May": "806"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2121",
+    "April": "1064",
+    "May": "1102"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2125",
+    "April": "642",
+    "May": "676"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2126",
+    "April": "536",
+    "May": "564"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2154",
+    "April": "1907",
+    "May": "2009"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2156",
+    "April": "647",
+    "May": "683"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2157",
+    "April": "241",
+    "May": "264"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2158",
+    "April": "555",
+    "May": "573"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2159",
+    "April": "276",
+    "May": "291"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE COUNCIL OF THE SHIRE OF HORNSBY",
+    "Postcode": "2775",
+    "April": "75",
+    "May": "76"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE HILLS SHIRE COUNCIL",
+    "Postcode": "2125",
+    "April": "642",
+    "May": "676"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE HILLS SHIRE COUNCIL",
+    "Postcode": "2153",
+    "April": "2888",
+    "May": "3037"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE HILLS SHIRE COUNCIL",
+    "Postcode": "2154",
+    "April": "1907",
+    "May": "2009"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE HILLS SHIRE COUNCIL",
+    "Postcode": "2155",
+    "April": "2184",
+    "May": "2290"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE HILLS SHIRE COUNCIL",
+    "Postcode": "2156",
+    "April": "647",
+    "May": "683"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE HILLS SHIRE COUNCIL",
+    "Postcode": "2157",
+    "April": "241",
+    "May": "264"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE HILLS SHIRE COUNCIL",
+    "Postcode": "2158",
+    "April": "555",
+    "May": "573"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE HILLS SHIRE COUNCIL",
+    "Postcode": "2159",
+    "April": "276",
+    "May": "291"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE HILLS SHIRE COUNCIL",
+    "Postcode": "2756",
+    "April": "1357",
+    "May": "1462"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "THE HILLS SHIRE COUNCIL",
+    "Postcode": "2775",
+    "April": "75",
+    "May": "76"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TWEED SHIRE COUNCIL",
+    "Postcode": "2483",
+    "April": "732",
+    "May": "779"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TWEED SHIRE COUNCIL",
+    "Postcode": "2484",
+    "April": "778",
+    "May": "827"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TWEED SHIRE COUNCIL",
+    "Postcode": "2485",
+    "April": "530",
+    "May": "550"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TWEED SHIRE COUNCIL",
+    "Postcode": "2486",
+    "April": "1046",
+    "May": "1101"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TWEED SHIRE COUNCIL",
+    "Postcode": "2487",
+    "April": "778",
+    "May": "816"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TWEED SHIRE COUNCIL",
+    "Postcode": "2488",
+    "April": "171",
+    "May": "180"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TWEED SHIRE COUNCIL",
+    "Postcode": "2489",
+    "April": "284",
+    "May": "292"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "TWEED SHIRE COUNCIL",
+    "Postcode": "2490",
+    "April": "25",
+    "May": "28"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "UNINCORPORATED FAR WEST",
+    "Postcode": "2648",
+    "April": "73",
+    "May": "76"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "UNINCORPORATED FAR WEST",
+    "Postcode": "2880",
+    "April": "405",
+    "May": "422"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "UPPER HUNTER SHIRE COUNCIL",
+    "Postcode": "2329",
+    "April": "77",
+    "May": "84"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "UPPER HUNTER SHIRE COUNCIL",
+    "Postcode": "2336",
+    "April": "55",
+    "May": "60"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "UPPER HUNTER SHIRE COUNCIL",
+    "Postcode": "2337",
+    "April": "276",
+    "May": "295"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "UPPER HUNTER SHIRE COUNCIL",
+    "Postcode": "2338",
+    "April": "61",
+    "May": "65"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "UPPER LACHLAN SHIRE COUNCIL",
+    "Postcode": "2580",
+    "April": "738",
+    "May": "794"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "UPPER LACHLAN SHIRE COUNCIL",
+    "Postcode": "2581",
+    "April": "65",
+    "May": "71"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "UPPER LACHLAN SHIRE COUNCIL",
+    "Postcode": "2582",
+    "April": "382",
+    "May": "427"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "UPPER LACHLAN SHIRE COUNCIL",
+    "Postcode": "2583",
+    "April": "139",
+    "May": "150"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "URALLA SHIRE COUNCIL",
+    "Postcode": "2350",
+    "April": "822",
+    "May": "891"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "URALLA SHIRE COUNCIL",
+    "Postcode": "2354",
+    "April": "265",
+    "May": "292"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "URALLA SHIRE COUNCIL",
+    "Postcode": "2358",
+    "April": "139",
+    "May": "145"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "URALLA SHIRE COUNCIL",
+    "Postcode": "2359",
+    "April": "30",
+    "May": "28"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WAGGA WAGGA CITY COUNCIL",
+    "Postcode": "2650",
+    "April": "1824",
+    "May": "1985"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WAGGA WAGGA CITY COUNCIL",
+    "Postcode": "2651",
+    "April": "31",
+    "May": "35"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WAGGA WAGGA CITY COUNCIL",
+    "Postcode": "2652",
+    "April": "174",
+    "May": "204"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WAGGA WAGGA CITY COUNCIL",
+    "Postcode": "2678",
+    "April": "46",
+    "May": "53"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WALCHA COUNCIL",
+    "Postcode": "2354",
+    "April": "265",
+    "May": "292"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WALGETT SHIRE COUNCIL",
+    "Postcode": "2386",
+    "April": "31",
+    "May": "34"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WALGETT SHIRE COUNCIL",
+    "Postcode": "2387",
+    "April": "15",
+    "May": "17"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WALGETT SHIRE COUNCIL",
+    "Postcode": "2831",
+    "April": "149",
+    "May": "158"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WALGETT SHIRE COUNCIL",
+    "Postcode": "2832",
+    "April": "91",
+    "May": "103"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WALGETT SHIRE COUNCIL",
+    "Postcode": "2833",
+    "April": "18",
+    "May": "20"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WALGETT SHIRE COUNCIL",
+    "Postcode": "2834",
+    "April": "73",
+    "May": "75"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WARREN SHIRE COUNCIL",
+    "Postcode": "2824",
+    "April": "114",
+    "May": "122"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WARREN SHIRE COUNCIL",
+    "Postcode": "2826",
+    "April": "12",
+    "May": "12"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WARREN SHIRE COUNCIL",
+    "Postcode": "2827",
+    "April": "125",
+    "May": "139"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WARRUMBUNGLE SHIRE COUNCIL",
+    "Postcode": "2357",
+    "April": "127",
+    "May": "141"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WARRUMBUNGLE SHIRE COUNCIL",
+    "Postcode": "2395",
+    "April": "22",
+    "May": "26"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WARRUMBUNGLE SHIRE COUNCIL",
+    "Postcode": "2396",
+    "April": "24",
+    "May": "27"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WARRUMBUNGLE SHIRE COUNCIL",
+    "Postcode": "2483",
+    "April": "732",
+    "May": "779"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WARRUMBUNGLE SHIRE COUNCIL",
+    "Postcode": "2842",
+    "April": "28",
+    "May": "30"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WARRUMBUNGLE SHIRE COUNCIL",
+    "Postcode": "2843",
+    "April": "50",
+    "May": "53"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WARRUMBUNGLE SHIRE COUNCIL",
+    "Postcode": "2844",
+    "April": "55",
+    "May": "58"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WAVERLEY COUNCIL",
+    "Postcode": "2022",
+    "April": "1306",
+    "May": "1353"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WAVERLEY COUNCIL",
+    "Postcode": "2024",
+    "April": "612",
+    "May": "639"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WAVERLEY COUNCIL",
+    "Postcode": "2026",
+    "April": "2111",
+    "May": "2188"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WAVERLEY COUNCIL",
+    "Postcode": "2029",
+    "April": "664",
+    "May": "685"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WAVERLEY COUNCIL",
+    "Postcode": "2030",
+    "April": "812",
+    "May": "844"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WAVERLEY COUNCIL",
+    "Postcode": "2034",
+    "April": "863",
+    "May": "896"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WEDDIN SHIRE COUNCIL",
+    "Postcode": "2721",
+    "April": "14",
+    "May": "18"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WEDDIN SHIRE COUNCIL",
+    "Postcode": "2809",
+    "April": "13",
+    "May": "16"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WEDDIN SHIRE COUNCIL",
+    "Postcode": "2810",
+    "April": "169",
+    "May": "184"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WENTWORTH SHIRE COUNCIL",
+    "Postcode": "2648",
+    "April": "73",
+    "May": "76"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WENTWORTH SHIRE COUNCIL",
+    "Postcode": "2715",
+    "April": "43",
+    "May": "49"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WENTWORTH SHIRE COUNCIL",
+    "Postcode": "2717",
+    "April": "21",
+    "May": "25"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WENTWORTH SHIRE COUNCIL",
+    "Postcode": "2738",
+    "April": "50",
+    "May": "57"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WENTWORTH SHIRE COUNCIL",
+    "Postcode": "2739",
+    "April": "40",
+    "May": "39"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WENTWORTH SHIRE COUNCIL",
+    "Postcode": "3585",
+    "April": "410",
+    "May": "457"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WILLOUGHBY CITY COUNCIL",
+    "Postcode": "2063",
+    "April": "308",
+    "May": "320"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WILLOUGHBY CITY COUNCIL",
+    "Postcode": "2064",
+    "April": "705",
+    "May": "725"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WILLOUGHBY CITY COUNCIL",
+    "Postcode": "2065",
+    "April": "2027",
+    "May": "2101"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WILLOUGHBY CITY COUNCIL",
+    "Postcode": "2066",
+    "April": "1428",
+    "May": "1478"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WILLOUGHBY CITY COUNCIL",
+    "Postcode": "2067",
+    "April": "1982",
+    "May": "2051"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WILLOUGHBY CITY COUNCIL",
+    "Postcode": "2068",
+    "April": "714",
+    "May": "748"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WILLOUGHBY CITY COUNCIL",
+    "Postcode": "2069",
+    "April": "660",
+    "May": "701"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WILLOUGHBY CITY COUNCIL",
+    "Postcode": "2071",
+    "April": "497",
+    "May": "518"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WINGECARRIBEE SHIRE COUNCIL",
+    "Postcode": "2530",
+    "April": "580",
+    "May": "613"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WINGECARRIBEE SHIRE COUNCIL",
+    "Postcode": "2575",
+    "April": "660",
+    "May": "713"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WINGECARRIBEE SHIRE COUNCIL",
+    "Postcode": "2576",
+    "April": "774",
+    "May": "822"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WINGECARRIBEE SHIRE COUNCIL",
+    "Postcode": "2577",
+    "April": "744",
+    "May": "805"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WINGECARRIBEE SHIRE COUNCIL",
+    "Postcode": "2578",
+    "April": "109",
+    "May": "116"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WINGECARRIBEE SHIRE COUNCIL",
+    "Postcode": "2579",
+    "April": "146",
+    "May": "159"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WINGECARRIBEE SHIRE COUNCIL",
+    "Postcode": "2757",
+    "April": "39",
+    "May": "40"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONDILLY SHIRE COUNCIL",
+    "Postcode": "2500",
+    "April": "1622",
+    "May": "1683"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONDILLY SHIRE COUNCIL",
+    "Postcode": "2560",
+    "April": "1748",
+    "May": "1819"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONDILLY SHIRE COUNCIL",
+    "Postcode": "2568",
+    "April": "37",
+    "May": "44"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONDILLY SHIRE COUNCIL",
+    "Postcode": "2569",
+    "April": "50",
+    "May": "56"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONDILLY SHIRE COUNCIL",
+    "Postcode": "2570",
+    "April": "1607",
+    "May": "1697"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONDILLY SHIRE COUNCIL",
+    "Postcode": "2571",
+    "April": "433",
+    "May": "464"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONDILLY SHIRE COUNCIL",
+    "Postcode": "2572",
+    "April": "123",
+    "May": "133"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONDILLY SHIRE COUNCIL",
+    "Postcode": "2573",
+    "April": "120",
+    "May": "127"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONDILLY SHIRE COUNCIL",
+    "Postcode": "2574",
+    "April": "147",
+    "May": "168"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONDILLY SHIRE COUNCIL",
+    "Postcode": "2745",
+    "April": "784",
+    "May": "838"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONDILLY SHIRE COUNCIL",
+    "Postcode": "2752",
+    "April": "144",
+    "May": "160"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2500",
+    "April": "1622",
+    "May": "1683"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2502",
+    "April": "268",
+    "May": "282"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2505",
+    "April": "139",
+    "May": "149"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2506",
+    "April": "120",
+    "May": "118"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2508",
+    "April": "346",
+    "May": "366"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2515",
+    "April": "533",
+    "May": "561"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2516",
+    "April": "224",
+    "May": "233"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2517",
+    "April": "371",
+    "May": "380"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2518",
+    "April": "526",
+    "May": "552"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2519",
+    "April": "519",
+    "May": "538"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2522",
+    "April": "6",
+    "May": "7"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2525",
+    "April": "314",
+    "May": "330"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2526",
+    "April": "468",
+    "May": "498"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2528",
+    "April": "402",
+    "May": "430"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOLLONGONG CITY COUNCIL",
+    "Postcode": "2530",
+    "April": "580",
+    "May": "613"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOOLLAHRA MUNICIPAL COUNCIL",
+    "Postcode": "2021",
+    "April": "1052",
+    "May": "1076"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOOLLAHRA MUNICIPAL COUNCIL",
+    "Postcode": "2023",
+    "April": "583",
+    "May": "597"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOOLLAHRA MUNICIPAL COUNCIL",
+    "Postcode": "2025",
+    "April": "502",
+    "May": "519"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOOLLAHRA MUNICIPAL COUNCIL",
+    "Postcode": "2026",
+    "April": "2111",
+    "May": "2188"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOOLLAHRA MUNICIPAL COUNCIL",
+    "Postcode": "2027",
+    "April": "551",
+    "May": "580"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOOLLAHRA MUNICIPAL COUNCIL",
+    "Postcode": "2028",
+    "April": "560",
+    "May": "581"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOOLLAHRA MUNICIPAL COUNCIL",
+    "Postcode": "2029",
+    "April": "664",
+    "May": "685"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "WOOLLAHRA MUNICIPAL COUNCIL",
+    "Postcode": "2030",
+    "April": "812",
+    "May": "844"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "YASS VALLEY COUNCIL",
+    "Postcode": "2581",
+    "April": "65",
+    "May": "71"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "YASS VALLEY COUNCIL",
+    "Postcode": "2582",
+    "April": "382",
+    "May": "427"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "YASS VALLEY COUNCIL",
+    "Postcode": "2584",
+    "April": "28",
+    "May": "31"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "YASS VALLEY COUNCIL",
+    "Postcode": "2618",
+    "April": "73",
+    "May": "74"
+  },
+  {
+    "Type": "Jobkeeper",
+    "Council": "YASS VALLEY COUNCIL",
+    "Postcode": "2620",
+    "April": "1073",
+    "May": "1132"
+  }
+]
